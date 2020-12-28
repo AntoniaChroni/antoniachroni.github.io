@@ -1,7 +1,7 @@
 # Contact Page
 
 ### You can find me
-Institute for Genomics and Evolutionary Medicine, [http://igem.temple.edu/] (http://igem.temple.edu/)
+Institute for Genomics and Evolutionary Medicine, [http://igem.temple.edu/](http://igem.temple.edu/)
 Department of Biology, Temple University
 SERC 610G
 SERC Building
@@ -14,4 +14,4 @@ Email [antonia.chroni@temple.edu](antonia.chroni@temple.edu), [tonichr3@gmail.
 
 Twitter [https://twitter.com/chroniantonia] @ChroniAntonia
 
-My profile at Google scholar [https://scholar.google.com/citations?hl=en&user=WHYQrCYAAAAJ](https://scholar.google.com/citations?hl=en&user=WHYQrCYAAAAJ)
+My profile at Google scholar: [https://scholar.google.com/citations?hl=en&user=WHYQrCYAAAAJ](https://scholar.google.com/citations?hl=en&user=WHYQrCYAAAAJ)
