@@ -1,6 +1,6 @@
 ## Welcome to my Website!
 
-[Link to another page](./contact.md)
+[Home](./)[Blog](./blog.md)[Contact](./contact.md)
 
 ### A little about myself
 
