@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to my Website!
+
+[Link to another page](./contact.md)
 
 You can use the [editor on GitHub](https://github.com/AntoniaChroni/antoniachroni.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
