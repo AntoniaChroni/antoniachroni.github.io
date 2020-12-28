@@ -12,6 +12,6 @@ Tel.  +1 215 204 2938
 
 Email [antonia.chroni@temple.edu](antonia.chroni@temple.edu), [tonichr3@gmail.com](tonichr3@gmail.com)
 
-Twitter [https://twitter.com/chroniantonia](@ChroniAntonia)
+Twitter [https://twitter.com/chroniantonia](https://twitter.com/chroniantonia)
 
 My profile at Google scholar: [https://scholar.google.com/citations?hl=en&user=WHYQrCYAAAAJ](https://scholar.google.com/citations?hl=en&user=WHYQrCYAAAAJ)
