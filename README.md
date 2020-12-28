@@ -2,38 +2,9 @@
 
 [Link to another page](./contact.md)
 
-You can use the [editor on GitHub](https://github.com/AntoniaChroni/antoniachroni.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### A little about myself
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AntoniaChroni/antoniachroni.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+I am an evolutionary biologist, and a curious person by nature, always seeking to answer questions. I am currently doing my postdoc in the US (Temple University, Philadelphia, http://igem.temple.edu/). 
+I am interested in understanding the underlying causes of cancer metastasis. Molecular evolution provides the necessary theoretical basis for studying somatic evolution 
+of cancerous cells, and by consequence, of tumors spread (metastasis). I am applying the principles of molecular evolution and organismal biogeography to cancers and tumors. 
+It is becoming a fascinating area, with the growing awareness that cancer is an evolutionary disease and that the study of tumor evolution is a big key.
