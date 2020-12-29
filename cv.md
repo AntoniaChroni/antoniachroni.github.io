@@ -39,9 +39,9 @@ April 2010
 * Reviewer Board: MDPI (Insects, Cancers)
 * Journals: BMC Evolutionary Biology, Geobios (Elsevier); MEEGID (Infection, Genetics and Evolution); MDPI (Insects, Genes, Diversity); Bulletin of Entomological Research; Zoology in the Middle East
 * Contribution in other publications. I contributed to the following projects as a reviewer (as mentioned in the acknowledgements sections).
-**  Kumar, S., Tao, Q., Weaver, S., Sanderford, M., Caraballo-Ortiz, M.A., Sharma, S., Pond, S.L. and Miura, S. (2020) An evolutionary portrait of the progenitor SARS-CoV-2 and its dominant offshoots in COVID-19 pandemic.  bioRxiv. https://doi.org/10.1101/2020.09.24.311845
+* *  Kumar, S., Tao, Q., Weaver, S., Sanderford, M., Caraballo-Ortiz, M.A., Sharma, S., Pond, S.L. and Miura, S. (2020) An evolutionary portrait of the progenitor SARS-CoV-2 and its dominant offshoots in COVID-19 pandemic.  bioRxiv. https://doi.org/10.1101/2020.09.24.311845
 * * Tao, Q., Barba-Montoya, J., Huuki, L.A., Durnan, M.K., Kumar, S. (2020) Relative Efficiencies of Simple and Complex Substitution Models in Estimating Divergence Times in Phylogenomics. Molecular Biology and Evolution, 37(6), 1819–1831. https://doi.org/10.1093/molbev/msaa049
-**  Miura, S., Vu, T., Deng, J., Buturla, T., Olumide, O., Choi, J., and Kumar, S. (2020) Power and pitfalls of computational methods for inferring clone phylogenies and mutation orders from bulk sequencing data. Scientific Reports (Nature Publisher Group), 10(1). https://doi.org/10.1038/s41598-020-59006-2
+* *  Miura, S., Vu, T., Deng, J., Buturla, T., Olumide, O., Choi, J., and Kumar, S. (2020) Power and pitfalls of computational methods for inferring clone phylogenies and mutation orders from bulk sequencing data. Scientific Reports (Nature Publisher Group), 10(1). https://doi.org/10.1038/s41598-020-59006-2
 
 
 
