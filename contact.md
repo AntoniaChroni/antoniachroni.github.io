@@ -3,7 +3,7 @@
 
 
 ### Let's get in touch!
-Institute for Genomics and Evolutionary Medicine, [http://igem.temple.edu/](http://igem.temple.edu/)
+Institute for Genomics and Evolutionary Medicine
 Department of Biology, Temple University
 SERC Building (610G)
 1925 N. 12th Street 
