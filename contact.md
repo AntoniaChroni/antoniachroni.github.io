@@ -2,7 +2,7 @@
 
 
 
-### To get in touch
+### Let's get in touch!
 Institute for Genomics and Evolutionary Medicine, [http://igem.temple.edu/](http://igem.temple.edu/)
 Department of Biology, Temple University
 SERC Building (610G)
@@ -14,7 +14,7 @@ Email [antonia.chroni@temple.edu](antonia.chroni@temple.edu), [tonichr3@gmail.
 
 
 
-### Find me elsewhere
+### Follow me
 Twitter [https://twitter.com/chroniantonia](https://twitter.com/chroniantonia)
 
 
