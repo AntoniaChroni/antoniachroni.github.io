@@ -1,8 +1,6 @@
----
-layout: default
----
+# My research interests
 
-## My research interests
+
 My research focus on cancer metastasis, investigating factors underlying tumor heterogeneity and its interaction with the microenvironment. 
 Molecular evolution provides the necessary theoretical basis for studying somatic evolution of cancerous cells, and by consequence, of tumors spread (metastasis). 
 I utilize the power of evolutionary and phylogenetic inference to reveal the origin and trajectory of cancer cells between tumors within a cancer patient from simulated and patient clinical data.
