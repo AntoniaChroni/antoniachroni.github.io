@@ -3,8 +3,7 @@
 ### To get in touch
 Institute for Genomics and Evolutionary Medicine, [http://igem.temple.edu/](http://igem.temple.edu/)
 Department of Biology, Temple University
-SERC 610G
-SERC Building
+SERC Building (610G)
 1925 N. 12th Street 
 Philadelphia, PA 19122-1801, USA
 Tel.  +1 215 204 2938
