@@ -1,4 +1,8 @@
-# My research interests
+---
+layout: default
+---
+
+## My research interests
 
 
 My research focus on cancer metastasis, investigating factors underlying tumor heterogeneity and its interaction with the microenvironment. 
@@ -11,7 +15,7 @@ I have co-developed PathFinder, a computational method that uses the clone phylo
 
 
 
-# Research interests
+# Research fields
 * Molecular evolution and phylogenetics
 * Cancer metastasis
 * Molecular ecology and Biogeography
