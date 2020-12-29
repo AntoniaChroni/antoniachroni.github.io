@@ -153,17 +153,3 @@ Annual meeting of Society for Molecular Biology and Evolution (SMBE), Québec Ci
 * Chroni, A., Djan, M., Obreht, D., Petanidou, T., Vujic, A. (2014) The validity of COI gene in species identification: The case of the genus Eumerus (Diptera: Syrphidae) in Southeastern Europe (poster). Proceedings of the Seventh International Symposium on Molecular Insect Science, 13-16 July, Amsterdam, P3.08.
 * Stefanaki, A., Chanlidou, E., Karousou, R., Kokkini, S., Chroni, A., Nakas, G., Devalez, J., Vavitsas, G., de Courcy Williams, M., Taylor, M., Mertzanidou, D., Tscheulin, T., Petanidou, T. (2013) Contribution to the botanical research in the Aegean in the frame of the research program: The Pollinators of the Aegean, Biodiversity and Threats (poster). Proceedings of the 13th Congress of the Hellenic Botanical Society, 3-6 October, Thessaloniki, p. 144.
 * Chroni, A., Tscheulin, T., Matsoukas, Ch., Petanidou, T. (2012) Impact of electromagnetic radiation of mobile telecommunication antennas on biodiversity: the case of wild bees (poster). 6th Congress of the Hellenic Ecological Society, 4-7 October, Athens, p. 278.
-
-# SKILLS
-* Programming: R, Python
-* Phylogenetic and phylogeographic software: BioEdit Sequence Alignment Editor, DNaSP, Mesquite, Arlequin, MEGA, Phylogenetic Network, RAxML, MrBayes, FigTree, Tracer, WINCLADA/NONA, PAUP*, PAST, SplitTree, RASP, BEAUti/BEAST, TempEst, TCS and GenAIEx, Alleles In Space, PopART, GENELAND (R), BioGeoBEARS (R), CloneFinder, PathFinder
-Laboratory: DNA & RNA extraction, PCR, DNA gel electrophoresis, Southern blotting, Cloning strategies, Endonucleases digestions, DNA ligation
-* Geospatial: QGIS, ArcGIS
-* Languages: Greek (mother tongue), English (fluent), French (advance), Italian (advance), Serbian (basic)
-
-# ADDITIONAL INFORMATION
-* Generation of DNA barcodes with GenBank accession numbers: KT157844 – KT157921 (17/06/2015), KT221005 – KT221032 (30/06/2015), KX083349 – KX083368, KX083373 – KX083388 & KX083390 – KX083393 (18/04/2016), KY272851 – KY272855 (01/12/2016), KY865444 – KY865575 (04/04/2017), MG559809-MG560043 (22/11/2017).
-* 14-18 October 2013. PhD course – Current trends in Phylogenetics. Biosystematics Group, Wageningen University, The Nerthelands. 
-* 2012-2014: POL-AEGIS Annual Meetings & Workshops, University of the Aegean, Mytilene, Greece.
-* Attended an academic year of: (a) Financial course: «Introduction to Economics and Business Planning», with a final project: Generation of a company for recycling aluminium» and (b) Didactic course in Life Sciences teaching. Department of Biochemistry and Biotechnology, University of Thessaly, Greece (10/10, 2008 – 2009).
-* Volunteer Experience: Participation as an actress for the TV commercial for the Victims of Violence of the Municipality of Lesvos (‘BREAK THE SILENCE’, March 2015. [https://vimeo.com/121490198](https://vimeo.com/121490198)
