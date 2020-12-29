@@ -4,14 +4,14 @@ layout: default
 
 ## My CV
 
-# Academic appointments
+### Academic appointments
 * Postdoctoral research fellow (Dr. Sudhir Kumar)
 Temple University, iGEM, Philadelphia, PA
 November 2018 – present
 
 
 
-# Education
+### Education
 * PhD Biological Sciences
 Designated Emphasis in Phylogenomics and Phylogeography (Prof. Theodora Petanidou)
 University of the Aegean, Greece 
@@ -26,7 +26,7 @@ April 2010
 
 
 
-# Professional reviews
+### Professional reviews
 * Associate Editor-In-Chief in Postdoctoral Editors Association (PEA), Biomedical Postdoctoral Council, University of Pennsylvania. 
 * Reviewer Board: MDPI (Insects, Cancers)
 * Journals: BMC Evolutionary Biology, Geobios (Elsevier); MEEGID (Infection, Genetics and Evolution); MDPI (Insects, Genes, Diversity); Bulletin of Entomological Research; Zoology in the Middle East
@@ -37,7 +37,7 @@ April 2010
 
 
 
-# Teaching experience
+### Teaching experience
 * GUEST LECTURES, BIO 3112/5112 Evolutionary Genomic Medicine
 “DNA sequencing: past, present and future” lecture (1 hour)
    Temple University, Philadelphia, PA, 19122
@@ -51,7 +51,7 @@ January – April 2019
 
 
 
-# Research experience
+### Research experience
 * Kumar Lab, Temple University, iGEM, Philadelphia, PA
 Developing methods for inferring metastatic origin and paths between tumors
 Developing methods for estimating evolutionary rates (dN/dS)
@@ -71,7 +71,7 @@ March – July  2009
 
 
 
-#  Professional experience
+###  Professional experience
 * Administration assistant, Project Thales (co-financed by the European Union (European Social Fund - ESF) and Greek national funds through the Operational Program “Education and Lifelong Learning” of the National Strategic Reference Framework (NSRF)), “THE POLLINATORS OF THE AEGEAN ARCHIPELAGO: DIVERSITY AND THREATS (POL-AEGIS)”
 Contracts and vacancies announcements for collaborators (paperwork and interviews), payments (of collaborators and expenses), direct labor and project’s reports and budget; 
 Contact with collaborators (>50, >18 foreigners); 
@@ -86,7 +86,7 @@ June – August 2006
 
 
 
-# Fellowships and awards
+### Fellowships and awards
 * Young Investigator Award (conference canceled due to COVID-19 crisis)
 Annual meeting of Society for Molecular Biology and Evolution (SMBE), Québec City, Canada. 
 * Erasmus+ Programme/International Credit Mobility for the academic year 2015-2016. University of Novi Sad, Serbia
@@ -101,12 +101,12 @@ September 2010 – January 2011
 
 
 
-# Conferences and organized symposia
+### Conferences and organized symposia
 * Lead organizer of the symposium “Evolutionary and Ecological Perspectives in Cancer Biology” (06/28-07/2/20) Selected (conference canceled due to COVID-19 crisis)
 Annual meeting of Society for Molecular Biology and Evolution (SMBE), Québec City, Canada. 
 
 
 
-# MEMBERSHIPS IN SCIENTIFIC ORGANIZATIONS
+### MEMBERSHIPS IN SCIENTIFIC ORGANIZATIONS
 * Society for the Study of Evolution
 * Society for Molecular Biology and Evolution
