@@ -39,7 +39,7 @@ April 2010
 
 
 ### Teaching experience
-* GUEST LECTURES, BIO 3112/5112 Evolutionary Genomic Medicine
+* Guest lectures, BIO 3112/5112 Evolutionary Genomic Medicine
 “DNA sequencing: past, present and future” lecture (1 hour)
    Temple University, Philadelphia, PA, 19122
 February 2020
