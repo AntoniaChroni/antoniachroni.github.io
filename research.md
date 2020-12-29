@@ -40,7 +40,7 @@ I have co-developed PathFinder, a computational method that uses the clone phylo
 
 
 
-### Presentations
+### Conference and Symposium Talks
 * Chroni, A., Miura, S., Kumar, S. (2020) Tumor biogeography: tracing migration paths of cancer cells (poster). SMBE2020, Québec City, Canada. Selected (conference canceled due to COVID-19 crisis).
 * Chroni, A., Miura, S., Kumar, S. (2019) Delineation of tumor migration paths by using a Bayesian biogeographic approach (Invited speaker). CST Research Mixer, Temple University, Philadelphia, US.
 * Chroni, A., Miura, S., Kumar, S. (2019) Can we infer tumor migration routes by using biogeographic methods? (poster). EPiC conference, Philadelphia, US. 
