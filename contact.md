@@ -1,4 +1,4 @@
-# Contact Page
+# Contact
 
 ### To get in touch
 Institute for Genomics and Evolutionary Medicine, [http://igem.temple.edu/](http://igem.temple.edu/)
@@ -15,5 +15,7 @@ Email [antonia.chroni@temple.edu](antonia.chroni@temple.edu), [tonichr3@gmail.
 
 ### Find me elsewhere
 Twitter [https://twitter.com/chroniantonia](https://twitter.com/chroniantonia)
+
 LinkedIn [https://www.linkedin.com/in/antonia-chroni-ba1a8514b/](https://www.linkedin.com/in/antonia-chroni-ba1a8514b/)
+
 ResearchGate [https://www.researchgate.net/profile/Antonia_Chroni](https://www.researchgate.net/profile/Antonia_Chroni)
