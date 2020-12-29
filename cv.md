@@ -27,7 +27,7 @@ April 2010
 
 
 # Professional reviews
-* Editor in Postdoctoral Editors Association (PEA), Biomedical Postdoctoral Council, University of Pennsylvania. 
+* Associate Editor-In-Chief in Postdoctoral Editors Association (PEA), Biomedical Postdoctoral Council, University of Pennsylvania. 
 * Reviewer Board: MDPI (Insects, Cancers)
 * Journals: BMC Evolutionary Biology, Geobios (Elsevier); MEEGID (Infection, Genetics and Evolution); MDPI (Insects, Genes, Diversity); Bulletin of Entomological Research; Zoology in the Middle East
 * Contribution in other publications. I contributed to the following projects as a reviewer (as mentioned in the acknowledgements sections).
