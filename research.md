@@ -12,7 +12,7 @@ I have co-developed PathFinder, a computational method that uses the clone phylo
 
 
 
-# Research fields
+### Research fields
 * Molecular evolution and phylogenetics
 * Cancer metastasis
 * Molecular ecology and Biogeography
@@ -22,12 +22,12 @@ I have co-developed PathFinder, a computational method that uses the clone phylo
 
 
 
-# My Google scholar profile
+### My Google scholar profile
 [https://scholar.google.com/citations?hl=en&user=WHYQrCYAAAAJ](https://scholar.google.com/citations?hl=en&user=WHYQrCYAAAAJ)
 
 
 
-# Publications
+### Publications
 * Kumar, S.*, Chroni, A.*, Tamura, K., Sanderford, M., Oladeinde, O., Aly, V., Vu, T., Miura, S. (In print) PathFinder: Bayesian inference of clone migration histories in cancer. Bioinformatics. [https://europepmc.org/article/ppr/ppr186392](https://europepmc.org/article/ppr/ppr186392)
 * Chroni, A., Vu, T., Miura, S., Kumar, S. (2019) Delineation of tumor migration paths by using a Bayesian biogeographic approach. Cancers, 11(12), 1880. [https://doi.org/10.3390/cancers11121880](https://doi.org/10.3390/cancers11121880)
 * Chroni, A., Stefanovic, M., Djan, M., Vujic, A., Šašic Zoric, L., Kosiš Tubic, N., Petanidou, T. (2019) Connecting the dots: Bridging genetic to spatial differentiation of the genus Eumerus (Diptera: Syrphidae) in the Mediterranean Basin and the Balkans. Journal of Zoological Systematics and Evolutionary Research, 00, 1–18. [https://doi.org/10.1111/jzs.12300](https://doi.org/10.1111/jzs.12300) 
@@ -40,7 +40,7 @@ I have co-developed PathFinder, a computational method that uses the clone phylo
 
 
 
-# Presentations
+### Presentations
 * Chroni, A., Miura, S., Kumar, S. (2020) Tumor biogeography: tracing migration paths of cancer cells (poster). SMBE2020, Québec City, Canada. Selected (conference canceled due to COVID-19 crisis).
 * Chroni, A., Miura, S., Kumar, S. (2019) Delineation of tumor migration paths by using a Bayesian biogeographic approach (Invited speaker). CST Research Mixer, Temple University, Philadelphia, US.
 * Chroni, A., Miura, S., Kumar, S. (2019) Can we infer tumor migration routes by using biogeographic methods? (poster). EPiC conference, Philadelphia, US. 
