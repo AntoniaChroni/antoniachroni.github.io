@@ -11,6 +11,16 @@ I have co-developed PathFinder, a computational method that uses the clone phylo
 
 
 
+# Research interests
+* Molecular evolution and phylogenetics
+* Cancer metastasis
+* Molecular ecology and Biogeography
+* Bioinformatics and Computational Biology
+* Insects – Pollinators
+* Mediterranean ecosystems
+
+
+
 ### My Google scholar profile
 [https://scholar.google.com/citations?hl=en&user=WHYQrCYAAAAJ](https://scholar.google.com/citations?hl=en&user=WHYQrCYAAAAJ)
 
