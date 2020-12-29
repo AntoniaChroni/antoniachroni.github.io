@@ -28,6 +28,7 @@ April 2010
 
 ### Professional reviews
 * Associate Editor-In-Chief in Postdoctoral Editors Association (PEA), Biomedical Postdoctoral Council, University of Pennsylvania. [https://www.med.upenn.edu/bpc/free-editing.html](https://www.med.upenn.edu/bpc/free-editing.html)
+* Associate Faculty Member for F1000Prime
 * Reviewer Board: MDPI (Insects, Cancers)
 * Journals: BMC Evolutionary Biology, Geobios (Elsevier); MEEGID (Infection, Genetics and Evolution); MDPI (Insects, Genes, Diversity); Bulletin of Entomological Research; Zoology in the Middle East
 * Contribution in other publications as a reviewer (as mentioned in the acknowledgements)
