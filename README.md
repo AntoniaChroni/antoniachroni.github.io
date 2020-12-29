@@ -1,3 +1,3 @@
 ## Welcome to my website!
 
-[Home](./)   [Research](./research.md)   [My CV](./cv.md)   [Blog](./blog.md)   [Contact](./contact.md)
+[Home](./)   [aboutme.md] (./aboutme.md)   [Research](./research.md)   [My CV](./cv.md)   [Blog](./blog.md)   [Contact](./contact.md)
