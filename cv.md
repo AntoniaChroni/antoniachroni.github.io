@@ -119,7 +119,7 @@ Annual meeting of Society for Molecular Biology and Evolution (SMBE), Québec Ci
 Annual meeting of Society for Molecular Biology and Evolution (SMBE), Québec City, Canada. 
 
 # PUBLICATIONS
-* Kumar, S.*, Chroni, A.*, Tamura, K., Sanderford, M., Oladeinde, O., Aly, V., Vu, T., Miura, S. (In print) PathFinder: Bayesian inference of clone migration histories in cancer. Bioinformatics.
+* Kumar, S.*, Chroni, A.*, Tamura, K., Sanderford, M., Oladeinde, O., Aly, V., Vu, T., Miura, S. (In print) PathFinder: Bayesian inference of clone migration histories in cancer. Bioinformatics. [https://europepmc.org/article/ppr/ppr186392](https://europepmc.org/article/ppr/ppr186392)
 * Chroni, A., Vu, T., Miura, S., Kumar, S. (2019) Delineation of tumor migration paths by using a Bayesian biogeographic approach. Cancers, 11(12), 1880. [https://doi.org/10.3390/cancers11121880](https://doi.org/10.3390/cancers11121880)
 * Chroni, A., Stefanovic, M., Djan, M., Vujic, A., Šašic Zoric, L., Kosiš Tubic, N., Petanidou, T. (2019) Connecting the dots: Bridging genetic to spatial differentiation of the genus Eumerus (Diptera: Syrphidae) in the Mediterranean Basin and the Balkans. Journal of Zoological Systematics and Evolutionary Research, 00, 1–18. [https://doi.org/10.1111/jzs.12300](https://doi.org/10.1111/jzs.12300) 
 * Chroni, A., Grkovic, A., Acanski, J., Vujic, A., Radenkovic, S., Petanidou, T. (2018) Disentangling a cryptic species complex and defining new species within the Eumerus minotaurus group (Diptera: Syrphidae), based on integrative taxonomy and Aegean palaeogeography. Contributions to Zoology, 87(4), 197–225.
