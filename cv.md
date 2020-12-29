@@ -2,12 +2,14 @@
 layout: default
 ---
 
-## CV
+##
 
 # APPOINTMENTS (ACADEMIC)
 Postdoctoral research fellow (Dr. Sudhir Kumar)
 Temple University, iGEM, Philadelphia, PA
 November 2018 – present
+
+
 
 # EDUCATION
 Ph.D. Biological Sciences
@@ -22,7 +24,9 @@ BSc Biochemistry and Biotechnology
 University of Thessaly, Greece
 April 2010
 
-RESEARCH INTERESTS
+
+
+# RESEARCH INTERESTS
 * Molecular evolution and phylogenetics
 * Cancer metastasis
 * Molecular ecology and Biogeography
@@ -30,7 +34,7 @@ RESEARCH INTERESTS
 * Insects – Pollinators
 * Mediterranean ecosystems
 
-PROFESSIONAL REVIEWS
+# PROFESSIONAL REVIEWS
 Editor in Postdoctoral Editors Association (PEA), Biomedical Postdoctoral Council, University of Pennsylvania. 
 Reviewer Board: MDPI (Insects, Cancers)
 Journals: BMC Evolutionary Biology, Geobios (Elsevier); MEEGID (Infection, Genetics and Evolution); MDPI (Insects, Genes, Diversity); Bulletin of Entomological Research; Zoology in the Middle East
@@ -41,7 +45,7 @@ Contribution in other publications. I contributed to the following projects as a
 
 
 
-TEACHING EXPERIENCE
+# TEACHING EXPERIENCE
 GUEST LECTURES, BIO 3112/5112 Evolutionary Genomic Medicine
 “DNA sequencing: past, present and future” lecture (1 hour)
    Temple University, Philadelphia, PA, 19122
@@ -53,7 +57,9 @@ Coordinator, Classic Papers in Molecular Phylogenetics (spring semester)
 Temple University, Philadelphia, PA, 19122
 January – April 2019
 
-RESEARCH EXPERIENCE
+
+
+# RESEARCH EXPERIENCE
 Kumar Lab, Temple University, iGEM, Philadelphia, PA
 * Developing methods for inferring metastatic origin and paths between tumors
 * Developing methods for estimating evolutionary rates (dN/dS)
@@ -69,9 +75,11 @@ Djan Lab, Laboratory of Genetics, Department of Biology and Ecology, University 
 June 2013 – May 2017
 Gasperi & Malacrida Lab, University of Pavia (Faculty of Sciences MMFFNN), Department of Animal Biology, Italy
 * Laboratory analyses for Diploma thesis: «Molecular sexing in the olive fruit fly, Bactrocera oleae»
-
 March – July  2009
-PROFESSIONAL EXPERIENCE
+
+
+
+#  PROFESSIONAL EXPERIENCE
 Administration assistant, Project Thales (co-financed by the European Union (European Social Fund - ESF) and Greek national funds through the Operational Program “Education and Lifelong Learning” of the National Strategic Reference Framework (NSRF)), “THE POLLINATORS OF THE AEGEAN ARCHIPELAGO: DIVERSITY AND THREATS (POL-AEGIS)”
 * Contracts and vacancies announcements for collaborators (paperwork and interviews), payments (of collaborators and expenses), direct labor and project’s reports and budget; 
 * Contact with collaborators (>50, >18 foreigners); 
@@ -84,7 +92,9 @@ Scientific laboratory technician (internship)
 Laboratory of Blood Tests and Biochemical Analysis, General Hospital of Mytilene «Vostaneio», Lesvos, Greece
 June – August 2006
 
-FELLOWSHIPS 
+
+
+# FELLOWSHIPS 
 Erasmus+ Programme/International Credit Mobility for the academic year 2015-2016. University of Novi Sad, Serbia
 February – May 2017
 PhD Fellowship Research, ??? – State Scholarships Foundation (Greece), "Mobility program scholarship for training in short time (‘short terms’) to qualified scientific / research centers. University of Novi Sad, Serbia 
@@ -95,31 +105,33 @@ Erasmus+ Programme/International Credit Mobility for the academic year 2010-2011
 September 2010 – January 2011
 Erasmus+ Programme/International Credit Mobility for the academic year 2009. University of Pavia, Italy
 
-MEMBERSHIPS IN SCIENTIFIC ORGANIZATIONS
+# MEMBERSHIPS IN SCIENTIFIC ORGANIZATIONS
 * Society for the Study of Evolution
 * Society for Molecular Biology and Evolution
 March – July 2009
 
-CONFERENCES AND ORGANIZED SYMPOSIA
+# CONFERENCES AND ORGANIZED SYMPOSIA
 * 2020.  Lead organizer of the symposium “Evolutionary and Ecological Perspectives in Cancer Biology” (06/28-07/2/20) Selected (conference canceled due to COVID-19 crisis)
 Annual meeting of Society for Molecular Biology and Evolution (SMBE), Québec City, Canada. 
 
-AWARDS
+# AWARDS
 * Young Investigator Award (conference canceled due to COVID-19 crisis)
 Annual meeting of Society for Molecular Biology and Evolution (SMBE), Québec City, Canada. 
 
-PUBLICATIONS
+# PUBLICATIONS
 Kumar, S.*, Chroni, A.*, Tamura, K., Sanderford, M., Oladeinde, O., Aly, V., Vu, T., Miura, S. (In print) PathFinder: Bayesian inference of clone migration histories in cancer. Bioinformatics.
-Chroni, A., Vu, T., Miura, S., Kumar, S. (2019) Delineation of tumor migration paths by using a Bayesian biogeographic approach. Cancers, 11(12), 1880. https://doi.org/10.3390/cancers11121880 
-Chroni, A., Stefanovi?, M., Djan, M., Vuji?, A., Šaši? Zori?, L., Ko?iš Tubi?, N., Petanidou, T. (2019) Connecting the dots: Bridging genetic to spatial differentiation of the genus Eumerus (Diptera: Syrphidae) in the Mediterranean Basin and the Balkans. Journal of Zoological Systematics and Evolutionary Research, 00, 1–18. https://doi.org/10.1111/jzs.12300 
+Chroni, A., Vu, T., Miura, S., Kumar, S. (2019) Delineation of tumor migration paths by using a Bayesian biogeographic approach. Cancers, 11(12), 1880. [https://doi.org/10.3390/cancers11121880](https://doi.org/10.3390/cancers11121880)
+Chroni, A., Stefanovi?, M., Djan, M., Vuji?, A., Šaši? Zori?, L., Ko?iš Tubi?, N., Petanidou, T. (2019) Connecting the dots: Bridging genetic to spatial differentiation of the genus Eumerus (Diptera: Syrphidae) in the Mediterranean Basin and the Balkans. Journal of Zoological Systematics and Evolutionary Research, 00, 1–18. [https://doi.org/10.1111/jzs.12300](https://doi.org/10.1111/jzs.12300) 
 Chroni, A., Grkovi?, A., A?anski, J., Vuji?, A., Radenkovi?, S., Petanidou, T. (2018) Disentangling a cryptic species complex and defining new species within the Eumerus minotaurus group (Diptera: Syrphidae), based on integrative taxonomy and Aegean palaeogeography. Contributions to Zoology, 87(4), 197–225.
 Chroni, A. (2018) Spatial patterns of genetic diversity of the genus Eumerus (Diptera: Syrphidae) in the Balkans. Doctoral Dissertation (in English), University of the Aegean, Mytilene (pp. 269).
-Grkovi?, A., Vuji?, A., Chroni, A., van Steenis, J., ?an, M., Radenkovi?, S. (2017) Taxonomy and systematics of three species of the genus Eumerus Meigen, 1822 (Diptera: Syrphidae) new in southeastern Europe. Zoologischer Anzeiger, 270, 176–192. https://doi.org/10.1016/j.jcz.2017.10.007
-Chroni, A., Djan, M., Vidakovi?, D.O., Petanidou, T., Vuji?, A. (2017) Molecular species delimitation in the genus Eumerus (Diptera: Syrphidae). Bulletin of Entomological Research, 107(1), 126–138. http://dx.doi.org/10.1017/S0007485316000729
-Lázaro, A., A. Chroni, T. Tscheulin, J. Devalez, C. Matsoukas, and T. Petanidou. (2016) Electromagnetic radiation of mobile telecommunication antennas affects the abundance and composition of wild pollinators. Journal of Insect Conservation: 1-10. http://dx.doi.org/10.1007/s10841-016-9868-8
-Grkovi? A., Vuji?, A., Radenkovi?, S., Chroni, A., Petanidou, T. (2015) Diversity of the genus Eumerus Meigen (Diptera, Syrphidae) on the eastern Mediterranean islands with description of three new species. Annales de la Société Entomologique de France (N.S.), 51(4), 361–373. http://dx.doi.org/10.1080/00379271.2016.1144483
+Grkovi?, A., Vuji?, A., Chroni, A., van Steenis, J., ?an, M., Radenkovi?, S. (2017) Taxonomy and systematics of three species of the genus Eumerus Meigen, 1822 (Diptera: Syrphidae) new in southeastern Europe. Zoologischer Anzeiger, 270, 176–192. [https://doi.org/10.1016/j.jcz.2017.10.007](https://doi.org/10.1016/j.jcz.2017.10.007)
+Chroni, A., Djan, M., Vidakovi?, D.O., Petanidou, T., Vuji?, A. (2017) Molecular species delimitation in the genus Eumerus (Diptera: Syrphidae). Bulletin of Entomological Research, 107(1), 126–138. [http://dx.doi.org/10.1017/S0007485316000729](http://dx.doi.org/10.1017/S0007485316000729)
+Lázaro, A., A. Chroni, T. Tscheulin, J. Devalez, C. Matsoukas, and T. Petanidou. (2016) Electromagnetic radiation of mobile telecommunication antennas affects the abundance and composition of wild pollinators. Journal of Insect Conservation: 1-10. [http://dx.doi.org/10.1007/s10841-016-9868-8](http://dx.doi.org/10.1007/s10841-016-9868-8)
+Grkovi? A., Vuji?, A., Radenkovi?, S., Chroni, A., Petanidou, T. (2015) Diversity of the genus Eumerus Meigen (Diptera, Syrphidae) on the eastern Mediterranean islands with description of three new species. Annales de la Société Entomologique de France (N.S.), 51(4), 361–373. [http://dx.doi.org/10.1080/00379271.2016.1144483](http://dx.doi.org/10.1080/00379271.2016.1144483)
 
-PRESENTATIONS
+
+
+# PRESENTATIONS
 Chroni, A., Miura, S., Kumar, S. (2020) Tumor biogeography: tracing migration paths of cancer cells (poster). SMBE2020, Québec City, Canada. Selected (conference canceled due to COVID-19 crisis).
 Chroni, A., Miura, S., Kumar, S. (2019) Delineation of tumor migration paths by using a Bayesian biogeographic approach (Invited speaker). CST Research Mixer, Temple University, Philadelphia, US.
 Chroni, A., Miura, S., Kumar, S. (2019) Can we infer tumor migration routes by using biogeographic methods? (poster). EPiC conference, Philadelphia, US. 
@@ -133,16 +145,16 @@ Chroni, A., Djan, M., Obreht, D., Petanidou, T., Vujic, A. (2014) The validity o
 Stefanaki, A., Chanlidou, E., Karousou, R., Kokkini, S., Chroni, A., Nakas, G., Devalez, J., Vavitsas, G., de Courcy Williams, M., Taylor, M., Mertzanidou, D., Tscheulin, T., Petanidou, T. (2013) Contribution to the botanical research in the Aegean in the frame of the research program: The Pollinators of the Aegean, Biodiversity and Threats (poster). Proceedings of the 13th Congress of the Hellenic Botanical Society, 3-6 October, Thessaloniki, p. 144.
 Chroni, A., Tscheulin, T., Matsoukas, Ch., Petanidou, T. (2012) Impact of electromagnetic radiation of mobile telecommunication antennas on biodiversity: the case of wild bees (poster). 6th Congress of the Hellenic Ecological Society, 4-7 October, Athens, p. 278.
 
-SKILLS
+# SKILLS
 Programming: R, Python
 Phylogenetic and phylogeographic software: BioEdit Sequence Alignment Editor, DNaSP, Mesquite, Arlequin, MEGA, Phylogenetic Network, RAxML, MrBayes, FigTree, Tracer, WINCLADA/NONA, PAUP*, PAST, SplitTree, RASP, BEAUti/BEAST, TempEst, TCS and GenAIEx, Alleles In Space, PopART, GENELAND (R), BioGeoBEARS (R), CloneFinder, PathFinder
 Laboratory: DNA & RNA extraction, PCR, DNA gel electrophoresis, Southern blotting, Cloning strategies, Endonucleases digestions, DNA ligation
 Geospatial: QGIS, ArcGIS
 Languages: Greek (mother tongue), English (fluent), French (advance), Italian (advance), Serbian (basic)
 
-ADDITIONAL INFORMATION
+# ADDITIONAL INFORMATION
 * Generation of DNA barcodes with GenBank accession numbers: KT157844 – KT157921 (17/06/2015), KT221005 – KT221032 (30/06/2015), KX083349 – KX083368, KX083373 – KX083388 & KX083390 – KX083393 (18/04/2016), KY272851 – KY272855 (01/12/2016), KY865444 – KY865575 (04/04/2017), MG559809-MG560043 (22/11/2017).
 * 14-18 October 2013. PhD course – Current trends in Phylogenetics. Biosystematics Group, Wageningen University, The Nerthelands. 
 * 2012-2014: POL-AEGIS Annual Meetings & Workshops, University of the Aegean, Mytilene, Greece.
 * Attended an academic year of: (a) Financial course: «Introduction to Economics and Business Planning», with a final project: Generation of a company for recycling aluminium» and (b) Didactic course in Life Sciences teaching. Department of Biochemistry and Biotechnology, University of Thessaly, Greece (10/10, 2008 – 2009).
-* Volunteer Experience: Participation as an actress for the TV commercial for the Victims of Violence of the Municipality of Lesvos (‘BREAK THE SILENCE’, March 2015. https://vimeo.com/121490198
+* Volunteer Experience: Participation as an actress for the TV commercial for the Victims of Violence of the Municipality of Lesvos (‘BREAK THE SILENCE’, March 2015. [https://vimeo.com/121490198](https://vimeo.com/121490198)
