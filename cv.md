@@ -12,7 +12,7 @@ November 2018 – present
 
 
 # Education
-* Ph.D. Biological Sciences
+* PhD Biological Sciences
 Designated Emphasis in Phylogenomics and Phylogeography (Prof. Theodora Petanidou)
 University of the Aegean, Greece 
 Dissertation: Spatial patterns of genetic diversity of the genus Eumerus (Diptera: Syrphidae) in the Balkans
@@ -91,7 +91,7 @@ June – August 2006
 Annual meeting of Society for Molecular Biology and Evolution (SMBE), Québec City, Canada. 
 * Erasmus+ Programme/International Credit Mobility for the academic year 2015-2016. University of Novi Sad, Serbia
 February – May 2017
-* PhD Fellowship Research, ??? – State Scholarships Foundation (Greece), "Mobility program scholarship for training in short time (‘short terms’) to qualified scientific / research centers. University of Novi Sad, Serbia 
+* PhD Fellowship Research – State Scholarships Foundation (Greece), "Mobility program scholarship for training in short time (‘short terms’) to qualified scientific / research centers. University of Novi Sad, Serbia 
 June – November 2014
 * Project ExpeER (financed by the European community’s Seventh Framework programme (FP2007-2013) under grant agreement no. 262060 (ExpeER)), “Ecosystem Research”, with project title: “GeNetic status Of EumeruS: conservatIon implications (GNOSIS)”
 June – July 2013
@@ -100,9 +100,6 @@ September 2010 – January 2011
 * Erasmus+ Programme/International Credit Mobility for the academic year 2009. University of Pavia, Italy, March – July 2009
 
 
-# MEMBERSHIPS IN SCIENTIFIC ORGANIZATIONS
-* Society for the Study of Evolution
-* Society for Molecular Biology and Evolution
 
 # Conferences and organized symposia
 * Lead organizer of the symposium “Evolutionary and Ecological Perspectives in Cancer Biology” (06/28-07/2/20) Selected (conference canceled due to COVID-19 crisis)
@@ -110,3 +107,6 @@ Annual meeting of Society for Molecular Biology and Evolution (SMBE), Québec Ci
 
 
 
+# MEMBERSHIPS IN SCIENTIFIC ORGANIZATIONS
+* Society for the Study of Evolution
+* Society for Molecular Biology and Evolution
