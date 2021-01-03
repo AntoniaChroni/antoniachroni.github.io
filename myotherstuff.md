@@ -7,8 +7,8 @@ layout: default
 
 
 ### Being in the press
- * Article about establishing the first Melissotheque in Greece [http://bioecolab-aegean.blogspot.com/2013/11/melissotheque-of-aegean.html](http://bioecolab-aegean.blogspot.com/2013/11/melissotheque-of-aegean.html), a project that I worked on through my years in the Biogeography and Ecology Lab of Prof. Theodora Petanidou (in Greek). 
-[https://www.lesvosnews.net/articles/news-categories/politismos/sti-mytilini-i-proti-melissothiki-panepistimio-aigaioy](https://www.lesvosnews.net/articles/news-categories/politismos/sti-mytilini-i-proti-melissothiki-panepistimio-aigaioy)
+ * Article about establishing the first Melissotheque in Greece, a project that I worked on through my years in the Biogeography and Ecology Lab of Prof. Theodora Petanidou (in Greek). [http://bioecolab-aegean.blogspot.com/2013/11/melissotheque-of-aegean.html](http://bioecolab-aegean.blogspot.com/2013/11/melissotheque-of-aegean.html)
+   * [https://www.lesvosnews.net/articles/news-categories/politismos/sti-mytilini-i-proti-melissothiki-panepistimio-aigaioy](https://www.lesvosnews.net/articles/news-categories/politismos/sti-mytilini-i-proti-melissothiki-panepistimio-aigaioy)
 
 
 
