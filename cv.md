@@ -113,7 +113,7 @@ September 2010 – January 2011
 
 
 ### Conferences and organized symposia
-* Lead organizer of the symposium “Evolutionary and Ecological Perspectives in Cancer Biology” (06/28-07/2/20) Selected (conference canceled due to COVID-19 crisis)
+* Lead organizer of the symposium “Evolutionary and Ecological Perspectives in Cancer Biology” (06/28-07/2/20) (conference canceled due to COVID-19 crisis)
 Annual meeting of Society for Molecular Biology and Evolution (SMBE), Québec City, Canada.
 
 
