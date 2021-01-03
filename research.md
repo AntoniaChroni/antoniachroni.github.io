@@ -10,7 +10,7 @@ Since my Phd, I have been using molecular phylogenetics and phylogeography to un
 I am interested on cancer metastasis, investigating factors underlying tumor heterogeneity and its interaction with the microenvironment. Molecular evolution provides the necessary theoretical basis for studying somatic evolution of cancerous cells, and by consequence, of tumors spread (metastasis). I utilize the power of evolutionary and phylogenetic inference to reveal the origin and trajectory of cancer cells between tumors within a cancer patient from simulated and patient clinical data. I am currently translating theoretical concepts and methods from molecular evolution and organismal biogeography in metastatic processes evolved within a patient (tumor biogeography).
 
 
-I have co-developed PathFinder, a computational method that uses the clone phylogeny, their genetic differentiation, and anatomical locations to infer cancer's migration history in a patient. [https://europepmc.org/article/ppr/ppr186392](https://europepmc.org/article/ppr/ppr186392)
+I have co-developed PathFinder, a computational method that uses the clone phylogeny, their genetic differentiation, and anatomical locations to infer cancer's migration history in a patient. [https://doi.org/10.1093/bioinformatics/btaa795](https://doi.org/10.1093/bioinformatics/btaa795)
 
 
 
@@ -30,7 +30,7 @@ I have co-developed PathFinder, a computational method that uses the clone phylo
 
 
 ### Publications
-* Kumar, S.(^), Chroni, A.(^), Tamura, K., Sanderford, M., Oladeinde, O., Aly, V., Vu, T., Miura, S. (2020) PathFinder: Bayesian inference of clone migration histories in cancer. Bioinformatics. (^ co-authors) [https://europepmc.org/article/ppr/ppr186392](https://europepmc.org/article/ppr/ppr186392)
+* Kumar, S.(^), Chroni, A.(^), Tamura, K., Sanderford, M., Oladeinde, O., Aly, V., Vu, T., Miura, S. (2020) PathFinder: Bayesian inference of clone migration histories in cancer. Bioinformatics, 36(2), 675-683. (^ co-authors) [https://doi.org/10.1093/bioinformatics/btaa795](https://doi.org/10.1093/bioinformatics/btaa795)
 * Chroni, A., Vu, T., Miura, S., Kumar, S. (2019) Delineation of tumor migration paths by using a Bayesian biogeographic approach. Cancers, 11(12), 1880. [https://doi.org/10.3390/cancers11121880](https://doi.org/10.3390/cancers11121880)
 * Chroni, A., Stefanovic, M., Djan, M., Vujic, A., Šašic Zoric, L., Kosiš Tubic, N., Petanidou, T. (2019) Connecting the dots: Bridging genetic to spatial differentiation of the genus Eumerus (Diptera: Syrphidae) in the Mediterranean Basin and the Balkans. Journal of Zoological Systematics and Evolutionary Research, 00, 1–18. [https://doi.org/10.1111/jzs.12300](https://doi.org/10.1111/jzs.12300) 
 * Chroni, A., Grkovic, A., Acanski, J., Vujic, A., Radenkovic, S., Petanidou, T. (2018) Disentangling a cryptic species complex and defining new species within the Eumerus minotaurus group (Diptera: Syrphidae), based on integrative taxonomy and Aegean palaeogeography. Contributions to Zoology, 87(4), 197–225.
