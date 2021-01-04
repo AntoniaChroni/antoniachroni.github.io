@@ -7,36 +7,28 @@ layout: default
 ### Appointments (academic)
 * Postdoctoral research fellow (Dr. Sudhir Kumar)
 Temple University, iGEM, Philadelphia, PA
-November 2018 – present
+November. 2018 – present.
 
 
 
 ### Education
-* PhD Biological Sciences
-Designated Emphasis in Phylogenomics and Phylogeography (Prof. Theodora Petanidou)
-University of the Aegean, Greece 
-Dissertation: Spatial patterns of genetic diversity of the genus Eumerus (Diptera: Syrphidae) in the Balkans
-February 2018
-* MSc Conservation Biodiversity
-University of Montpellier II, France and University of the Aegean, Greece
-September 2012
-* BSc Biochemistry and Biotechnology
-University of Thessaly, Greece
-April 2010
+* PhD Biological Sciences, University of the Aegean, Greece. Designated Emphasis in Phylogenomics and Phylogeography (Prof. Theodora Petanidou). Dissertation: Spatial patterns of genetic diversity of the genus Eumerus (Diptera: Syrphidae) in the Balkans. February 2018.
+* MSc Conservation Biodiversity, University of Montpellier II, France and University of the Aegean, Greece. September 2012.
+* BSc Biochemistry and Biotechnology, University of Thessaly, Greece. April 2010.
 
 
 
 ### Editorial boards
-* Associate Editor-In-Chief in Postdoctoral Editors Association (PEA), Biomedical Postdoctoral Council, University of Pennsylvania. [https://www.med.upenn.edu/bpc/free-editing.html](https://www.med.upenn.edu/bpc/free-editing.html). 2020 – present
+* Associate Editor-In-Chief in Postdoctoral Editors Association (PEA), Biomedical Postdoctoral Council, University of Pennsylvania. [https://www.med.upenn.edu/bpc/free-editing.html](https://www.med.upenn.edu/bpc/free-editing.html). 2020 – present.
 
 
 
 ### Review boards
-* Member, Review committee in Genes (MDPI). 2020 – present
-* Member, Review committee in Insects (MDPI). 2019 – present
-* Associate Faculty Member for F1000Prime. 2019 – present
-* Peer review: BMC Evolutionary Biology, Geobios (Elsevier); MEEGID (Infection, Genetics and Evolution); MDPI (Insects, Genes, Diversity); Bulletin of Entomological Research; Zoology in the Middle East. 2016 – present
-* Contribution in other publications as a reviewer (as mentioned in the acknowledgements). 2018 – present
+* Member, Review committee in Genes (MDPI). 2020 – present.
+* Member, Review committee in Insects (MDPI). 2019 – present.
+* Associate Faculty Member for F1000Prime. 2019 – present.
+* Peer review: BMC Evolutionary Biology, Geobios (Elsevier); MEEGID (Infection, Genetics and Evolution); MDPI (Insects, Genes, Diversity); Bulletin of Entomological Research; Zoology in the Middle East. 2016 – present.
+* Contribution in other publications as a reviewer (as mentioned in the acknowledgements). 2018 – present.
   *  Kumar, S., Tao, Q., Weaver, S., Sanderford, M., Caraballo-Ortiz, M.A., Sharma, S., Pond, S.L. and Miura, S. (2020) An evolutionary portrait of the progenitor SARS-CoV-2 and its dominant offshoots in COVID-19 pandemic.  bioRxiv. https://doi.org/10.1101/2020.09.24.311845
   * Tao, Q., Barba-Montoya, J., Huuki, L.A., Durnan, M.K., Kumar, S. (2020) Relative Efficiencies of Simple and Complex Substitution Models in Estimating Divergence Times in Phylogenomics. Molecular Biology and Evolution, 37(6), 1819–1831. https://doi.org/10.1093/molbev/msaa049
   *  Miura, S., Vu, T., Deng, J., Buturla, T., Olumide, O., Choi, J., and Kumar, S. (2020) Power and pitfalls of computational methods for inferring clone phylogenies and mutation orders from bulk sequencing data. Scientific Reports (Nature Publisher Group), 10(1). https://doi.org/10.1038/s41598-020-59006-2
@@ -44,16 +36,13 @@ April 2010
 
 
 ### Teaching experience
-* Guest lectures, BIO 3112/5112 Evolutionary Genomic Medicine
+* Guest lecturer, BIO 3112/5112 Evolutionary Genomic Medicine. February 2020.
 “DNA sequencing: past, present and future” lecture
    Temple University, Philadelphia, PA, 19122
-February 2020
-* Coordinator, Lab journal (summer semester)
+* Coordinator, Lab journal (summer semester). May  –  September 2019.
 Temple University, Philadelphia, PA, 19122
-May  –  September 2019
-* Coordinator, Classic Papers in Molecular Phylogenetics (spring semester)
+* Coordinator, Classic Papers in Molecular Phylogenetics (spring semester). January – April 2019.
 Temple University, Philadelphia, PA, 19122
-January – April 2019
 
 
 
