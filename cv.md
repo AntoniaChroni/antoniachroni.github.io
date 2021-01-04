@@ -36,13 +36,9 @@ November. 2018 – present.
 
 
 ### Teaching experience
-* Guest lecturer, BIO 3112/5112 Evolutionary Genomic Medicine. February 2020.
-“DNA sequencing: past, present and future” lecture
-   Temple University, Philadelphia, PA, 19122
-* Coordinator, Lab journal (summer semester). May  –  September 2019.
-Temple University, Philadelphia, PA, 19122
-* Coordinator, Classic Papers in Molecular Phylogenetics (spring semester). January – April 2019.
-Temple University, Philadelphia, PA, 19122
+* Guest lecturer, BIO 3112/5112 Evolutionary Genomic Medicine. “DNA sequencing: past, present and future” lecture. Temple University. February 2020.
+* Coordinator, Lab journal (summer semester). Temple University. May  –  September 2019.
+* Coordinator, Classic Papers in Molecular Phylogenetics (spring semester). Temple University. January – April 2019.
 
 
 
@@ -64,9 +60,9 @@ Temple University, Philadelphia, PA, 19122
 
 ###  Professional experience
 * Administration assistant, Project Thales (co-financed by the European Union (European Social Fund - ESF) and Greek national funds through the Operational Program “Education and Lifelong Learning” of the National Strategic Reference Framework (NSRF)), “THE POLLINATORS OF THE AEGEAN ARCHIPELAGO: DIVERSITY AND THREATS (POL-AEGIS)”. March 2012 –  November 2015.
-  * Contracts and vacancies announcements for collaborators (paperwork and interviews), payments (of collaborators and expenses), direct labor and project’s reports and budget; 
-  * Contact with collaborators (>50, >18 foreigners); 
-  * Organization and conduct of the annual project meetings & workshops; 
+  * Contracts and vacancies announcements for collaborators (paperwork and interviews), payments (of collaborators and expenses), direct labor and project’s reports and budget 
+  * Contact with collaborators (>50, >18 foreigners)
+  * Organization and conduct of the annual project meetings & workshops 
   * Research, transaction and purchase for lab supplies
   * Lab manager
 * Scientific laboratory technician (internship). June – August 2006.
