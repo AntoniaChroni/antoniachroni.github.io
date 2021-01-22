@@ -17,4 +17,4 @@ layout: default
  * I have lived in five countries, and I speak four-ish languages.
  * I am an avid tanguera.
  * I have participated in various theater and film projects.
-   *  Participation as an actress for the TV commercial for the Victims of Domestic violence of the Municipality of Lesvos (Greece). "BREAK THE SILENCE". March 2015 [https://vimeo.com/121490198](https://vimeo.com/121490198)
+   *  TV commercial for the Victims of Domestic violence of the Municipality of Lesvos (Greece). "BREAK THE SILENCE". March 2015 [https://vimeo.com/121490198](https://vimeo.com/121490198)
