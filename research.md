@@ -15,12 +15,11 @@ I have co-developed PathFinder, a computational Bayesian method that uses the cl
 
 
 ### Research fields
-* Molecular evolution and phylogenetics
+* Molecular Evolution and Phylogenetics
 * Cancer metastasis
-* Molecular ecology and Biogeography
-* Bioinformatics and Computational Biology
-* Insects – Pollinators
-* Mediterranean ecosystems
+* Molecular Ecology and Biogeography
+* Bioinformatics
+* Insects – Pollinators and Mediterranean ecosystems
 
 
 
