@@ -14,6 +14,6 @@ layout: default
 
 ### Some fun non-academic facts about me:
  * I am an avid tanguera.
- * I have done theater and participated in various short films in the past.
-   *  Participation as an actress for the TV commercial for the Victims of Domestic violence of the Municipality of Lesvos (Greece). "BREAK THE SILENCE". March 2015. [https://vimeo.com/121490198](https://vimeo.com/121490198)
+ * I have participated in various theater and film projects in the past.
+   *  Participation as an actress for the TV commercial for the Victims of Domestic violence of the Municipality of Lesvos (Greece). "BREAK THE SILENCE". March 2015 [https://vimeo.com/121490198](https://vimeo.com/121490198)
  * I have lived in five countries and two continents, and I speak four-ish languages.
