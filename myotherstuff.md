@@ -13,7 +13,7 @@ layout: default
 
 
 ### Some fun non-academic facts about me:
- * I grew up in the Greek island of Lesvos, the land of olive oil, ouzo and sardines. The island is also known as the place where Aristotle began his systematic zoological observations along with Theophrastus (father of botany). 
+ * I grew up in the Greek island of Lesvos, the land of olive oil and ouzo. The island is also known as the place where Aristotle began his systematic zoological observations along with Theophrastus (father of botany). 
  * I have lived in five countries, and I speak four-ish languages.
  * I am an avid tanguera.
  * I have participated in various theater and film projects.
