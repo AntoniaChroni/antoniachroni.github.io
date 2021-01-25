@@ -8,7 +8,7 @@ I am a curious person by nature, always seeking to answer questions. During my u
 
 
 
-My expertise lies in molecular evolution, phylogenetics, bioinformatics, molecular ecology, and organismal biogeography. 
+My expertise lies in molecular evolution and phylogenetics, molecular ecology, organismal biogeography, cancer metastasis and bioinformatics.
 
 
 
