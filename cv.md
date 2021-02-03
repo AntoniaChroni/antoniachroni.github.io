@@ -60,7 +60,8 @@ November. 2018 – present.
 
 ###  Professional experience
 * Administration assistant, Project Thales (co-financed by the European Union (European Social Fund - ESF) and Greek national funds through the Operational Program “Education and Lifelong Learning” of the National Strategic Reference Framework (NSRF)), “THE POLLINATORS OF THE AEGEAN ARCHIPELAGO: DIVERSITY AND THREATS (POL-AEGIS)”. March 2012 –  November 2015.
-  * Contracts and vacancies announcements for collaborators (paperwork and interviews), payments (of collaborators and expenses), direct labor and project’s reports and budget 
+  * Liaison between a PI and the Research Unit of the University of the Aegean (Greece). During that position, I built partnerships with the university and the Hellenic Ministry of Education and Religious Affairs.
+  * Contracts and vacancies announcements for collaborators (paperwork and interviews), payments of collaborators and expenses, direct labor and project’s reports and budget; organization and conduct of the annual project meetings & workshops; and research, transaction and purchase for lab supplies
   * Contact with collaborators (>50, >18 foreigners)
   * Organization and conduct of the annual project meetings & workshops 
   * Research, transaction and purchase for lab supplies
