@@ -80,6 +80,11 @@ Laboratory of Blood Tests and Biochemical Analysis, General Hospital of Mytilene
 * Erasmus+ Programme/International Credit Mobility for the academic year 2009. University of Pavia, Italy. March – July 2009.
 
 
+### Outreach and leadership
+* Volunteer at Temple University Postdoctoral association (TUPA). 2020 – present.
+  * TUPA aims to support all postdocs at Temple on a career, social and cultural level. I am currently involved to employ inclusivity and equality for Temple’s postdocs, and to foster relationships with PIs for developing social and networking opportunities.
+
+
 
 ### Memberships in scientific organizations
 * Society for the Study of Evolution
@@ -92,3 +97,4 @@ Laboratory of Blood Tests and Biochemical Analysis, General Hospital of Mytilene
 Annual meeting of Society for Molecular Biology and Evolution (SMBE), Québec City, Canada.
 
 
+ 
