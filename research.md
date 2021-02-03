@@ -13,7 +13,7 @@ I am interested on cancer metastasis, investigating fundamental factors that sha
 Recently, I introduced the field of tumor biogeography as a sophisticated alternative framework for studying the evolutionary and spatiotemporal dynamics of cancer cell migrations within and between tumors. In this interdisciplinary pursuit, I am mapping the processes of movements of clones migrating between tumors to the processes in phylogenetic biogeography processes. [https://doi.org/10.3390/cancers11121880](https://doi.org/10.3390/cancers11121880)
 
 
-I have co-developed PathFinder, a computational Bayesian method, a computational Bayesian method that uses the clone phylogeny, their genetic differentiation, and anatomical locations to infer cancer's migration history in a patient. [https://doi.org/10.1093/bioinformatics/btaa795](https://doi.org/10.1093/bioinformatics/btaa795)
+I have co-developed PathFinder, a computational Bayesian method that uses the clone phylogeny, their genetic differentiation, and anatomical locations to infer cancer's migration history in a patient. [https://doi.org/10.1093/bioinformatics/btaa795](https://doi.org/10.1093/bioinformatics/btaa795)
  * PathFinder is available on the web at [https://github.com/SayakaMiura/PathFinder](https://github.com/SayakaMiura/PathFinder)
 
 
