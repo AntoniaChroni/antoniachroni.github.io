@@ -4,13 +4,19 @@ layout: default
 
 ## My research interests
 
-I am an evolutionary biologist with expertise in molecular phylogenetics, bioinformatics, ecology and biogeography at the species and cancer level. During my doctoral dissertation research, I investigated genetic and spatial patterns of insect-pollinators in the Mediterranean ecosystems. I studied the evolutionary relationships of hoverfly species, discovered new species, and explored speciation events via divergence time estimates based on the Aegean palaeogeography. Drawing from this unique background, I use an interdisciplinary approach to apply my skills in molecular evolution and organismal biogeography to study diversity and migration of cancer cells in cancer metastasis.
+I am an evolutionary biologist with expertise in molecular evolution, phylogenetics, bioinformatics, molecular ecology, and biogeography of populations, species, and tumors. In my doctoral research, I investigated genetic and spatial patterns of insect-pollinators in the Mediterranean ecosystems. I studied the evolutionary relationships of hoverfly species, discovered new species, and explored mechanisms of speciation through timetrees based on the Aegean paleogeography. Drawing from this strong and interdisciplinary background, I have initiated cross-cutting investigations that are bringing molecular evolution and organismal biogeography to understanding and explaining genomic diversity and migration of cancer cells in tumors. 
 
 
-I am interested on cancer metastasis, investigating factors underlying tumor heterogeneity and its interaction with the microenvironment. Molecular evolution provides the necessary theoretical basis for studying somatic evolution of cancerous cells, and by consequence, of tumors spread (metastasis). I utilize the power of evolutionary and phylogenetic inference to reveal the origin and trajectory of cancer cells between tumors within a cancer patient from simulated and patient clinical data. I am currently translating theoretical concepts and methods from molecular evolution and organismal biogeography in metastatic processes evolved within a patient (tumor biogeography).
+During my postdoctoral research, the intersection of cancer and evolution has fascinated me and offered me a chance to develop integrative projects. Cancer is an evolutionary disease. Cancer cells accumulate genetic aberrations that can be traced back to one cancer cell formed through mutations of a normal cell. Cancer cells continue to mutate and evolve over time, causing extensive intra- and inter-tumor genetic heterogeneity in primary and metastatic tumors. I am investigating fundamental factors that shape genomic tumor heterogeneity, including somatic mutations, selection, and migration. A deep understanding of inter- and intra-tumor heterogeneity is important for disease diagnosis, prognosis and treatment. Molecular evolution provides the necessary theoretical basis for studying somatic evolution of cancer cells, movements, and tumor spread (metastasis). 
 
 
-I have been part of the team developing PathFinder, a computational Bayesian method that uses the clone phylogeny, their genetic differentiation, and anatomical locations to infer cancer's migration history in a patient. [https://doi.org/10.1093/bioinformatics/btaa795](https://doi.org/10.1093/bioinformatics/btaa795)
+I am interested on cancer metastasis, investigating factors underlying tumor heterogeneity and its interaction with the microenvironment. I am harnessing the power of molecular evolutionary and phylogenetic inferences to reveal the origin and trajectory of cancer cells between tumors within a cancer patient. 
+
+
+Recently, I introduced the field of tumor biogeography as a sophisticated alternative framework for studying the evolutionary and spatiotemporal dynamics of cancer cell migrations within and between tumors. In this interdisciplinary pursuit, I am mapping the processes of movements of clones migrating between tumors to the processes in phylogenetic biogeography processes. [https://doi.org/10.3390/cancers11121880](https://doi.org/10.3390/cancers11121880)
+
+
+I have co-developed PathFinder, a computational Bayesian method, a computational Bayesian method that uses the clone phylogeny, their genetic differentiation, and anatomical locations to infer cancer's migration history in a patient. [https://doi.org/10.1093/bioinformatics/btaa795](https://doi.org/10.1093/bioinformatics/btaa795)
 
 
 
