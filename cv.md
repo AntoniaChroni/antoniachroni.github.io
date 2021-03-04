@@ -81,7 +81,7 @@ Laboratory of Blood Tests and Biochemical Analysis, General Hospital of Mytilene
 
 
 ### Outreach and leadership
-* Volunteer at Temple University Postdoctoral association (TUPA). 2020 – present.
+* Advocacy & Outreach Officer at Temple University Postdoctoral association (TUPA). 2020 – present.
   * TUPA aims to support all postdocs at Temple on a career, social and cultural level. I am currently involved to employ inclusivity and equality for Temple’s postdocs, and to foster relationships with PIs for developing social and networking opportunities.
 
 
