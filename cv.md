@@ -36,6 +36,7 @@ November. 2018 – present.
 
 
 ### Teaching experience
+* Mentor of a high school student. Science Preparatory Research Opportunities for Underrepresented Teens (SPROUT) Committee. June – August 2021.
 * Guest lecturer, BIO 3112/5112 Evolutionary Genomic Medicine. “DNA sequencing: past, present and future” lecture. Temple University. February 2020.
 * Coordinator, Lab journal (summer semester). Temple University. May  –  September 2019.
 * Coordinator, Classic Papers in Molecular Phylogenetics (spring semester). Temple University. January – April 2019.
@@ -44,15 +45,18 @@ November. 2018 – present.
 
 ### Research experience
 * Kumar Lab, Temple University, iGEM, Philadelphia, PA. November 2018 – present.
-  * Developing methods for inferring metastatic origin and paths between tumors
-  * Developing methods for estimating evolutionary rates (dN/dS)
-  * Mentoring students
+  * Data analysis of large cohorts of simulated and clinical data of patients with metastatic cancer
+  * Method and computational tools development for inferring the origin and trajectories of cancer cells between tumors in a cancer patient
+  * Method development for estimating evolutionary rates (dN/dS)
+  * Mentoring students (> 20)
 * Petanidou Lab, Laboratory of Biogeography and Ecology, Department of Geography, University of the Aegean, Greece. June 2011 – February 2018.
-  * Paper and grant writing
+  * Writing of papers and projects/ fellowships
   * Mentoring students and supervising exams 
-  * Research assistant: Fieldwork (insects, plants and electromagnetic radiation) and processing database 
+  * Fieldwork: Sampling of insect – pollinators and plants combined with electromagnetic radiation measurements
+  * Participation in processing and managing of insect and plant material as well as the database 
+  * Taxonomic identification of insects
 * Vujic and Djan Lab, Laboratory of Genetics, Department of Biology and Ecology, University of Novi Sad, Serbia. June 2013 – May 2017.
-  * DNA sequencing and phylogenetic analyses
+  * Laboratory (DNA sequencing) and phylogenetic analyses
 * Gasperi & Malacrida Lab, University of Pavia (Faculty of Sciences MMFFNN), Department of Animal Biology, Italy. March – July  2009.
   * Laboratory analyses for Diploma thesis: «Molecular sexing in the olive fruit fly, Bactrocera oleae»
 
@@ -81,7 +85,7 @@ Laboratory of Blood Tests and Biochemical Analysis, General Hospital of Mytilene
 
 
 ### Outreach and leadership
-* Advocacy & Outreach Officer at Temple University Postdoctoral association (TUPA). 2020 – present.
+* Advocacy & Outreach Officer and Postdoc ambassador at Temple University Postdoctoral association (TUPA). 2020 – present.
   * TUPA aims to support all postdocs at Temple on a career, social and cultural level. I am currently involved to employ inclusivity and equality for Temple’s postdocs, and to foster relationships with PIs for developing social and networking opportunities.
 
 
@@ -93,7 +97,8 @@ Laboratory of Blood Tests and Biochemical Analysis, General Hospital of Mytilene
 
 
 ### Conferences and organized symposia
-* Lead organizer of the symposium “Evolutionary and Ecological Perspectives in Cancer Biology” (06/28-07/2/20) (conference canceled due to COVID-19 crisis)
+* 2021. ZJ of the First Annual Temple Postdoc Symposium (virtual), Temple University, Philadelphia, US.
+* 2020. Lead organizer of the symposium “Evolutionary and Ecological Perspectives in Cancer Biology” (06/28-07/2/20) (conference canceled due to COVID-19 crisis)
 Annual meeting of Society for Molecular Biology and Evolution (SMBE), Québec City, Canada.
 
 
