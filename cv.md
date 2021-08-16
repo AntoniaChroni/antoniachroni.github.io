@@ -76,6 +76,7 @@ Laboratory of Blood Tests and Biochemical Analysis, General Hospital of Mytilene
 
 
 ### Fellowships and awards
+* Frances Velay Fellowship Program (Undergraduate Research: Maansi Suvarna). Temple University, Philadelphia, PA, USA.	June – August 2021.
 * Young Investigator Award (conference canceled due to COVID-19 crisis). Annual meeting of Society for Molecular Biology and Evolution (SMBE), Québec City, Canada. 2020. 
 * Erasmus+ Programme/International Credit Mobility for the academic year 2015-2016. University of Novi Sad, Serbia. February – May 2017.
 * PhD Fellowship Research – State Scholarships Foundation (Greece), "Mobility program scholarship for training in short time (‘short terms’) to qualified scientific / research centers. University of Novi Sad, Serbia . June – November 2014.
