@@ -98,9 +98,9 @@ Laboratory of Blood Tests and Biochemical Analysis, General Hospital of Mytilene
 
 
 ### Conferences and organized symposia
-* 2021. ZJ of the First Annual Temple Postdoc Symposium (virtual), Temple University, Philadelphia, US.
-* 2020. Lead organizer of the symposium “Evolutionary and Ecological Perspectives in Cancer Biology” (06/28-07/2/20) (conference canceled due to COVID-19 crisis)
-Annual meeting of Society for Molecular Biology and Evolution (SMBE), Québec City, Canada.
+* ZJ of the First Annual Temple Postdoc Symposium (virtual), Temple University, Philadelphia, US. 2021. 
+* Lead organizer of the symposium “Evolutionary and Ecological Perspectives in Cancer Biology” (06/28-07/2/20) (conference canceled due to COVID-19 crisis)
+Annual meeting of Society for Molecular Biology and Evolution (SMBE), Québec City, Canada. 2020.
 
 
  
