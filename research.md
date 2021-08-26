@@ -34,7 +34,7 @@ I have co-developed PathFinder, a computational Bayesian method that uses the cl
 
 ### Publications
 * Chroni, A., and Kumar, S. (Invited revision) Tumors are evolutionary islands.
-* Chroni, A., Miura, S., Oladeinde, O., Aly, V., Kumar, S. (2021) Migrations of cancer cells through the lens of phylogenetic biogeography. Scientific Reports, 11, 17184. https://doi.org/10.1038/s41598-021-96215-9 
+* Chroni, A., Miura, S., Oladeinde, O., Aly, V., Kumar, S. (2021) Migrations of cancer cells through the lens of phylogenetic biogeography. Scientific Reports, 11, 17184. [https://doi.org/10.1038/s41598-021-96215-9](https://doi.org/10.1038/s41598-021-96215-9)
 * Kumar, S.(^), Chroni, A.(^), Tamura, K., Sanderford, M., Oladeinde, O., Aly, V., Vu, T., Miura, S. (2020) PathFinder: Bayesian inference of clone migration histories in cancer. Bioinformatics, 36(2), i675–i683. (^ co-authors) [https://doi.org/10.1093/bioinformatics/btaa795](https://doi.org/10.1093/bioinformatics/btaa795)
 * Chroni, A., Vu, T., Miura, S., Kumar, S. (2019) Delineation of tumor migration paths by using a Bayesian biogeographic approach. Cancers, 11(12), 1880. [https://doi.org/10.3390/cancers11121880](https://doi.org/10.3390/cancers11121880)
 * Chroni, A., Stefanovic, M., Djan, M., Vujic, A., Šašic Zoric, L., Kosiš Tubic, N., Petanidou, T. (2019) Connecting the dots: Bridging genetic to spatial differentiation of the genus Eumerus (Diptera: Syrphidae) in the Mediterranean Basin and the Balkans. Journal of Zoological Systematics and Evolutionary Research, 57(4), 822-839. [https://doi.org/10.1111/jzs.12300](https://doi.org/10.1111/jzs.12300) 
