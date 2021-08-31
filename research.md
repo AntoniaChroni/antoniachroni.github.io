@@ -49,7 +49,7 @@ I have co-developed PathFinder, a computational Bayesian method that uses the cl
 
 ### Conference and Symposium Talks
 * Awadalla, M., Chroni, A., Suvarna, M., Kumar, S. (2021) Finding the evolutionary roots of cancer cell migrations (poster). SROUT, 19 August, Temple University, Philadelphia, US.
-* Chroni, A., Hamilton, L., Vu, T., Townsend, J., Kumar, S. (2021) Finding the evolutionary roots of cancer cells migrations (talk). SMBE 2021 (virtual), 4-8 July. Upcoming.
+* Chroni, A., Hamilton, L., Vu, T., Townsend, J., Kumar, S. (2021) Finding the evolutionary roots of cancer cells migrations (talk). SMBE 2021 (virtual), 4-8 July.
 * Chroni, A. (2021) What lessons can we learn from organismal evolution and biogeography in cancer?  (talk). First Annual Temple Postdoc Symposium (virtual), Temple University, Philadelphia, US.
 * Chroni, A., Miura, S., Kumar, S. (2020) Tumor biogeography: tracing migration paths of cancer cells (poster). SMBE2020, Québec City, Canada. Selected (conference canceled due to COVID-19 crisis).
 * Chroni, A., Miura, S., Kumar, S. (2019) Delineation of tumor migration paths by using a Bayesian biogeographic approach (Invited speaker). CST Research Mixer, Temple University, Philadelphia, US.
