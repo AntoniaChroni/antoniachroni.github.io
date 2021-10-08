@@ -92,8 +92,9 @@ Laboratory of Blood Tests and Biochemical Analysis, General Hospital of Mytilene
 
 
 ### Memberships in scientific organizations
-* Society for the Study of Evolution
+* American Association for Cancer Research (AACR)
 * Society for Molecular Biology and Evolution
+* Society for the Study of Evolution
 
 
 
