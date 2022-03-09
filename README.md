@@ -1,6 +1,8 @@
 ## Welcome to my website!
 
-[Home](./)  [Research](./research.md)   [My CV](./cv.md)   [My other stuff](./myotherstuff.md)   [Contact](./contact.md)
+[Home](./)  [Research](./research.md)   [My CV](./cv.md)   [My other stuff](./myotherstuff.md)   [Contact](./contact.md) 
+![272865162_1070778917105134_8842346098360367250_n](272865162_1070778917105134_8842346098360367250_n.jpg)
+
 
 ### A little about myself
 
@@ -12,6 +14,4 @@ My expertise lies in molecular evolution and phylogenetics, molecular ecology, b
 
 
 
-
-I am currently a postdoctoral fellow working with Dr. Sudhir Kumar [http://www.kumarlab.net/](http://www.kumarlab.net/). 
 
