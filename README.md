@@ -1,7 +1,6 @@
 ## Welcome to my website!
 
 [Home](./)  [Research](./research.md)   [My CV](./cv.md)   [My other stuff](./myotherstuff.md)   [Contact](./contact.md) 
-![272865162_1070778917105134_8842346098360367250_n](272865162_1070778917105134_8842346098360367250_n.jpg)
 
 
 ### A little about myself
