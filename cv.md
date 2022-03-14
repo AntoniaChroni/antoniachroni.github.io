@@ -5,9 +5,12 @@ layout: default
 ## My CV
 
 ### Appointments (academic)
+* Postdoctoral research fellow (Dr. Iannis Aifantis and Dr. Aristotelis Tsirigos)
+Perlmutter Cancer Center, Department of Pathology, Applied Bioinformatics Laboratories, NYU School of Medicine, New York, NY
+March. 2022 – present.
 * Postdoctoral research fellow (Dr. Sudhir Kumar)
 Temple University, iGEM, Philadelphia, PA
-November. 2018 – present.
+November. 2018 – March 2022.
 
 
 
