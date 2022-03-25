@@ -5,10 +5,10 @@ layout: default
 ## My CV
 
 ### Appointments (academic)
-* Postdoctoral research fellow (Dr. Iannis Aifantis, [https://aifantislab.com/](https://aifantislab.com/) and Dr. Aristotelis Tsirigos, [http://www.tsirigos.com/](http://www.tsirigos.com/))
+* Postdoctoral research fellow (Dr. Iannis Aifantis and Dr. Aristotelis Tsirigos)
 Perlmutter Cancer Center, Department of Pathology, Applied Bioinformatics Laboratories, NYU School of Medicine, New York, NY.
 March 2022 – present.
-* Postdoctoral research fellow (Dr. Sudhir Kumar, [https://www.kumarlab.net/](https://www.kumarlab.net/))
+* Postdoctoral research fellow (Dr. Sudhir Kumar)
 Temple University, iGEM, Philadelphia, PA.
 November 2018 – March 2022.
 
@@ -47,9 +47,9 @@ November 2018 – March 2022.
 
 
 ### Research experience
-* Aifantis Lab and Tsirigos Lab, Department of Pathology, Applied Bioinformatics Laboratories, NYU School of Medicine, New York, NY. March 2022 – present.
+* Aifantis Lab ([https://aifantislab.com/](https://aifantislab.com/)) and Tsirigos Lab ([http://www.tsirigos.com/](http://www.tsirigos.com/)), Department of Pathology, Applied Bioinformatics Laboratories, NYU School of Medicine, New York, NY. March 2022 – present.
   * Computational approaches to analyze leukemia transcriptomes and epigenomes at the single cell level.
-* Kumar Lab, Temple University, iGEM, Philadelphia, PA. November 2018 – March 2022.
+* Kumar Lab ([https://www.kumarlab.net/](https://www.kumarlab.net/)), Temple University, iGEM, Philadelphia, PA. November 2018 – March 2022.
   * Data analysis of large cohorts of simulated and clinical data of patients with metastatic cancer
   * Method and computational tools development for inferring the origin and trajectories of cancer cells between tumors in a cancer patient
   * Method development for estimating evolutionary rates (dN/dS)
