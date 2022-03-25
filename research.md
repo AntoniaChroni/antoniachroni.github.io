@@ -22,7 +22,7 @@ I have co-developed PathFinder, a computational Bayesian method that uses the cl
 * Cancer Evolution and Metastasis
 * Epigenetics and single-cell transcriptomics
 * Molecular Evolution and Phylogenetics
-* Molecular Ecology and Biogeography
+* Molecular Ecology
 
 
 
