@@ -4,26 +4,24 @@ layout: default
 
 ## My research interests
 
-I am an evolutionary biologist with expertise in molecular evolution, phylogenetics, bioinformatics, molecular ecology, and biogeography of populations, species, and tumors. In my doctoral research, I investigated genetic and spatial patterns of insect-pollinators in the Mediterranean ecosystems. I studied the evolutionary relationships of hoverfly species, discovered new species, and explored mechanisms of speciation through timetrees based on the Aegean paleogeography. 
+I am an evolutionary biologist with expertise in molecular evolution, phylogenetics, molecular ecology, as well as biogeography of populations, species, and tumors. In my doctoral research, I investigated genetic and spatial patterns of insect-pollinators in the Mediterranean ecosystems. I studied the evolutionary relationships of hoverfly species, discovered new species, and explored mechanisms of speciation through timetrees based on the Aegean paleogeography. 
 
 Drawing from this strong and interdisciplinary background, I have initiated cross-cutting investigations that are bringing molecular evolution and organismal biogeography to understanding and explaining genomic diversity and migration of cancer cells in tumors. I am harnessing the power of molecular evolutionary and phylogenetic inferences to reveal the origin and trajectory of cancer cells between tumors within a cancer patient. Cancer cells accumulate genetic aberrations that can be traced back to one cancer cell formed through mutations of a normal cell. Cancer cells continue to mutate and evolve over time, causing extensive heterogeneity in primary and metastatic tumors. A deep understanding of inter- and intra-tumor heterogeneity is important for disease diagnosis, prognosis and treatment. 
 
 
-Recently, I introduced the field of tumor biogeography as a sophisticated alternative framework for studying the evolutionary and spatiotemporal dynamics of cancer cell migrations within and between tumors. In this interdisciplinary pursuit, I am mapping the processes of movements of clones migrating between tumors to the processes in phylogenetic biogeography processes. [https://doi.org/10.3390/cancers11121880](https://doi.org/10.3390/cancers11121880)
+Recently, I introduced the “Tumor Island Biogeography” field proposing that tumors are evolutionary islands. This is a unique, fresh conceptual framework that can leverage the extensive spatial and longitudinal variation patterns observed in the genomes, transcriptomes and proteomes of cancer cells. 
 
 
-I have co-developed PathFinder, a computational Bayesian method that uses the clone phylogeny, their genetic differentiation, and anatomical locations to infer cancer's migration history in a patient. [https://doi.org/10.1093/bioinformatics/btaa795](https://doi.org/10.1093/bioinformatics/btaa795)
+I have also co-developed PathFinder, a computational Bayesian method that uses the clone phylogeny, their genetic differentiation, and anatomical locations to infer cancer's migration history in a patient.
  * PathFinder is available on the web at [https://github.com/SayakaMiura/PathFinder](https://github.com/SayakaMiura/PathFinder)
 
 
 
 ### Research fields
-* Tumor Biogeography 
 * Cancer Evolution and Metastasis
-* Epigenetics and single-cell transcriptomics
+* Tumor Island Biogeography 
+* Epigenetics and transcriptomics
 * Molecular Evolution and Phylogenetics
-* Molecular Ecology
-
 
 
 ### My Google scholar profile
