@@ -9,12 +9,10 @@ I am an evolutionary biologist with expertise in molecular evolution, phylogenet
 Drawing from this strong and interdisciplinary background, I have initiated cross-cutting investigations that are bringing molecular evolution and organismal biogeography to understanding and explaining genomic diversity and migration of cancer cells in tumors. I am harnessing the power of molecular evolutionary and phylogenetic inferences to reveal the origin and trajectory of cancer cells between tumors within a cancer patient. Cancer cells accumulate genetic aberrations that can be traced back to one cancer cell formed through mutations of a normal cell. Cancer cells continue to mutate and evolve over time, causing extensive heterogeneity in primary and metastatic tumors. A deep understanding of inter- and intra-tumor heterogeneity is important for disease diagnosis, prognosis and treatment. 
 
 
-Recently, I introduced the “Tumor Island Biogeography” field proposing that tumors are evolutionary islands. This is a unique, fresh conceptual framework that can leverage the extensive spatial and longitudinal variation patterns observed in the genomes, transcriptomes and proteomes of cancer cells. 
-
-
-I have also co-developed PathFinder, a computational Bayesian method that uses the clone phylogeny, their genetic differentiation, and anatomical locations to infer cancer's migration history in a patient.
+Duirng my postdoctoral experience at Temple University, I introduced the “Tumor Island Biogeography” field proposing that tumors are evolutionary islands. This is a unique, fresh conceptual framework that can leverage the extensive spatial and longitudinal variation patterns observed in the genomes, transcriptomes and proteomes of cancer cells. I also co-developed PathFinder, a computational Bayesian method that uses the clone phylogeny, their genetic differentiation, and anatomical locations to infer cancer's migration history in a patient.
  * PathFinder is available on the web at [https://github.com/SayakaMiura/PathFinder](https://github.com/SayakaMiura/PathFinder)
 
+Recently, I started my postdoctoral fellowship at NYU. An exciting era has started for me as I am being introduced to clonal hematopoiesis, and the power of multi-omic approaches for deciphering malignant and other cells in the BM microenvironment. I am currently using computational tools to investigate epigenomes and trasncriptomes at single cell level in hematological malignancies.
 
 
 ### Research fields
