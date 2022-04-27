@@ -85,7 +85,7 @@ Laboratory of Blood Tests and Biochemical Analysis, General Hospital of Mytilene
 * September 2010 – January 2011. Erasmus+ Programme/International Credit Mobility. University of Montpellier II, France. 
 * June – July 2013. Project ExpeER (financed by the European community’s Seventh Framework programme (FP2007-2013) under grant agreement no. 262060 (ExpeER)), “Ecosystem Research”. Project title: “GeNetic status Of EumeruS: conservatIon implications (GNOSIS)”. University of Novi Sad, Serbia. 
 * June – November 2014. PhD Fellowship Research – State Scholarships Foundation (Greece), "Mobility program scholarship for training in short time (‘short terms’) to qualified scientific / research centers. University of Novi Sad, Serbia. 
-* February – May 2017. Erasmus+ Programme/International Credit Mobility. University of Novi Sad, Serbia. 
+* February – May 2017. Erasmus+ Programme/International Credit Mobility. University of Novi Sad, Serbia.
 * 2020. Young Investigator Award (conference canceled due to COVID-19 crisis). Annual meeting of Society for Molecular Biology and Evolution (SMBE), Québec City, Canada.
 * June – August 2021. Frances Velay Fellowship Program (Undergraduate Research: Maansi Suvarna). Temple University, Philadelphia, PA.
 
