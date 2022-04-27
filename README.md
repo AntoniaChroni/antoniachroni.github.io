@@ -1,6 +1,6 @@
 ## Welcome to my website!
 
-[Home](./)  [Research](./research.md)   [My CV](./cv.md)   [My other stuff](./myotherstuff.md)   [Contact](./contact.md) 
+[Home](./)  [My Research](./myresearch.md)   [My CV](./cv.md)   [My other stuff](./myotherstuff.md)   [Contact](./contact.md) 
 
 
 ### A little about myself
