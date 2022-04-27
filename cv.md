@@ -2,20 +2,20 @@
 layout: default
 ---
 
-## My CV
+## CV
 
 ### Appointments (academic)
-* Postdoctoral research fellow (Dr. Iannis Aifantis and Dr. Aristotelis Tsirigos)
+* Postdoctoral fellow (Dr. Iannis Aifantis and Dr. Aristotelis Tsirigos)
 Perlmutter Cancer Center, Department of Pathology, Applied Bioinformatics Laboratories, NYU School of Medicine, New York, NY.
 March 2022 – present.
-* Postdoctoral research fellow (Dr. Sudhir Kumar)
+* Postdoctoral fellow (Dr. Sudhir Kumar)
 Temple University, iGEM, Philadelphia, PA.
 November 2018 – March 2022.
 
 
 
 ### Education
-* PhD Biological Sciences, University of the Aegean, Greece. Designated Emphasis in Phylogenomics and Phylogeography (Prof. Theodora Petanidou). Dissertation: Spatial patterns of genetic diversity of the genus Eumerus (Diptera: Syrphidae) in the Balkans. February 2018.
+* PhD Geography, University of the Aegean, Greece. Designated Emphasis in Phylogenomics and Phylogeography (Prof. Theodora Petanidou). Dissertation: Spatial patterns of genetic diversity of the genus Eumerus (Diptera: Syrphidae) in the Balkans. February 2018.
 * MSc Conservation Biodiversity, University of Montpellier II, France and University of the Aegean, Greece. September 2012.
 * BSc Biochemistry and Biotechnology, University of Thessaly, Greece. April 2010.
 
@@ -97,11 +97,11 @@ Laboratory of Blood Tests and Biochemical Analysis, General Hospital of Mytilene
 
 
 ### Memberships in scientific organizations
-* American Association for Cancer Research (AACR)
-* Society for Molecular Biology and Evolution
-* Society for the Study of Evolution
-
-
+* 2019. Society for Molecular Biology and Evolution
+* 2021. American Association for Cancer Research (AACR)
+* 2021. AACR Cancer Evolution group
+* 2022. American Society of Hematology (ASH)
+* 
 
 ### Conferences and organized symposia
 * ZJ of the First Annual Temple Postdoc Symposium (virtual), Temple University, Philadelphia, US. 2021. 
