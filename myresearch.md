@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## My research
+## Research
 
 I am an evolutionary biologist with expertise in molecular evolution, phylogenetics, molecular ecology, as well as biogeography of populations, species, and tumors. In my doctoral research, I investigated genetic and spatial patterns of insect-pollinators in the Mediterranean ecosystems. I studied the evolutionary relationships of hoverfly species, discovered new species, and explored mechanisms of speciation through timetrees based on the Aegean paleogeography. 
 
