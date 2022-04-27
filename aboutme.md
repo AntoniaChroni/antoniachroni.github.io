@@ -13,7 +13,6 @@ My expertise lies in molecular evolution, phylogenetics, bioinformatics, molecul
 
 
 
-I am currently a postdoctoral fellow working with Dr. Sudhir Kumar [http://www.kumarlab.net/](http://www.kumarlab.net/). 
 
 
 
