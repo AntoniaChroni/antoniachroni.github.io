@@ -22,15 +22,15 @@ November 2018 – March 2022.
 
 
 ### Editorial boards
-* Associate Editor-In-Chief in Postdoctoral Editors Association (PEA), Biomedical Postdoctoral Council, University of Pennsylvania. [https://www.med.upenn.edu/bpc/free-editing.html](https://www.med.upenn.edu/bpc/free-editing.html). 2020 – present.
+* Associate Editor-In-Chief in Postdoctoral Editors Association (PEA), Biomedical Postdoctoral Council, University of Pennsylvania. [https://www.med.upenn.edu/bpc/free-editing.html](https://www.med.upenn.edu/bpc/free-editing.html). 2020 – 2022.
 
 
 
 ### Review boards
 * Member, Review committee in Genes (MDPI). 2020 – present.
 * Member, Review committee in Insects (MDPI). 2019 – present.
-* Associate Faculty Member for F1000Prime. 2019 – present.
-* Peer review: BMC Evolutionary Biology, Geobios (Elsevier); MEEGID (Infection, Genetics and Evolution); MDPI (Insects, Genes, Diversity); Bulletin of Entomological Research; Zoology in the Middle East. 2016 – present.
+* Associate Faculty Member for F1000Prime. 2019 – 2022.
+* Peer review: Peer review: BMC Evolutionary Biology, Geobios (Elsevier); MEEGID (Infection, Genetics and Evolution); MDPI (Water, Insects, Horticulturae, Diversity, Genes); Bulletin of Entomological Research; Zoology in the Middle East. 2016 - present [https://orcid.org/0000-0003-3655-8252] (https://orcid.org/0000-0003-3655-8252)
 * Contribution in other publications as a reviewer (as mentioned in the acknowledgements).
   *  Kumar, S., Tao, Q., Weaver, S., Sanderford, M., Caraballo-Ortiz, M.A., Sharma, S., Pond, S.L. and Miura, S. (2021) An evolutionary portrait of the progenitor SARS-CoV-2 and its dominant offshoots in COVID-19 pandemic.  Molecular Biology and Evolution, 38(8), 3046–3059. [https://doi.org/10.1093/molbev/msab118](https://doi.org/10.1093/molbev/msab118)
   * Tao, Q., Barba-Montoya, J., Huuki, L.A., Durnan, M.K., Kumar, S. (2020) Relative Efficiencies of Simple and Complex Substitution Models in Estimating Divergence Times in Phylogenomics. Molecular Biology and Evolution, 37(6), 1819–1831. [https://doi.org/10.1093/molbev/msaa049](https://doi.org/10.1093/molbev/msaa049)
@@ -101,7 +101,7 @@ Laboratory of Blood Tests and Biochemical Analysis, General Hospital of Mytilene
 * 2021. American Association for Cancer Research (AACR)
 * 2021. AACR Cancer Evolution group
 * 2022. American Society of Hematology (ASH)
-* 
+
 
 ### Conferences and organized symposia
 * ZJ of the First Annual Temple Postdoc Symposium (virtual), Temple University, Philadelphia, US. 2021. 
