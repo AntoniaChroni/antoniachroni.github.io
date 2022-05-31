@@ -6,8 +6,7 @@ layout: default
 
 I am an evolutionary biologist with expertise in molecular evolution, phylogenetics, molecular ecology, as well as biogeography of populations, species, and tumors. In my doctoral research, I investigated genetic and spatial patterns of insect-pollinators in the Mediterranean ecosystems. I studied the evolutionary relationships of hoverfly species, discovered new species, and explored mechanisms of speciation through timetrees based on the Aegean paleogeography. 
 
-Drawing from this strong and interdisciplinary background, I have initiated cross-cutting investigations that are bringing molecular evolution and organismal biogeography to understanding and explaining genomic diversity and migration of cancer cells in tumors. In that pursuit, I introduced the “Tumor Island Biogeography” field proposing that tumors are evolutionary islands. This is a unique, fresh conceptual framework that can leverage the extensive spatial and longitudinal variation patterns observed in the genomes, transcriptomes and proteomes of cancer cells. I also co-developed PathFinder, a computational Bayesian method that uses the clone phylogeny, their genetic differentiation, and anatomical locations to infer cancer's migration history in a patient.
- * PathFinder is available on the web at [https://github.com/SayakaMiura/PathFinder](https://github.com/SayakaMiura/PathFinder)
+Drawing from this strong and interdisciplinary background, I have initiated cross-cutting investigations that are bringing molecular evolution and organismal biogeography to understanding and explaining genomic diversity and migration of cancer cells in tumors. In that pursuit, I introduced the “Tumor Island Biogeography” field proposing that tumors are evolutionary islands. This is a unique, fresh conceptual framework that can leverage the extensive spatial and longitudinal variation patterns observed in the genomes, transcriptomes and proteomes of cancer cells. I also co-developed PathFinder, a computational Bayesian method that uses the clone phylogeny, their genetic differentiation, and anatomical locations to infer cancer's migration history in a patient (available at [https://github.com/SayakaMiura/PathFinder](https://github.com/SayakaMiura/PathFinder)).
 
 Recently, I started my postdoctoral fellowship at NYU. An exciting era has started for me as I am being introduced to clonal hematopoiesis, and the power of multi-omic approaches for deciphering malignant and other cells in the BM microenvironment. I am currently using computational tools to investigate epigenomes and trasncriptomes at single cell level in hematological malignancies.
 
@@ -40,7 +39,7 @@ Recently, I started my postdoctoral fellowship at NYU. An exciting era has start
 
 
 ### Conference and Symposium Talks
-* Awadalla, M., Chroni, A., Suvarna, M., Kumar, S. (2021) Finding the evolutionary roots of cancer cell migrations (poster). SROUT, 19 August, Temple University, Philadelphia, US.
+* Awadalla, M., Chroni, A., Suvarna, M., Kumar, S. (2021) Finding the evolutionary roots of cancer cell migrations (poster). SPROUT, 19 August, Temple University, Philadelphia, US.
 * Chroni, A., Hamilton, L., Vu, T., Townsend, J., Kumar, S. (2021) Finding the evolutionary roots of cancer cells migrations (talk). SMBE 2021 (virtual), 4-8 July.
 * Chroni, A. (2021) What lessons can we learn from organismal evolution and biogeography in cancer?  (talk). First Annual Temple Postdoc Symposium (virtual), Temple University, Philadelphia, US.
 * Chroni, A., Miura, S., Kumar, S. (2020) Tumor biogeography: tracing migration paths of cancer cells (poster). SMBE2020, Québec City, Canada. Selected (conference canceled due to COVID-19 crisis).
