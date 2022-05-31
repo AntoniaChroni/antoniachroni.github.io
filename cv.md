@@ -15,7 +15,7 @@ November 2018 – March 2022.
 
 
 ### Education
-* PhD Geography, University of the Aegean, Greece. Designated Emphasis in Phylogenomics and Phylogeography (Prof. Theodora Petanidou). Dissertation: Spatial patterns of genetic diversity of the genus Eumerus (Diptera: Syrphidae) in the Balkans. February 2018.
+* PhD Biological Sciences, University of the Aegean, Greece. Designated Emphasis in Phylogenomics and Phylogeography (Prof. Theodora Petanidou). Dissertation: Spatial patterns of genetic diversity of the genus Eumerus (Diptera: Syrphidae) in the Balkans. February 2018.
 * MSc Conservation Biodiversity, University of Montpellier II, France and University of the Aegean, Greece. September 2012.
 * BSc Biochemistry and Biotechnology, University of Thessaly, Greece. April 2010.
 
