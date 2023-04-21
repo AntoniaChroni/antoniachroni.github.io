@@ -8,7 +8,7 @@ I am an evolutionary biologist with extensive expertise in molecular evolution a
 
 Drawing from this strong and interdisciplinary background, I have initiated cross-cutting investigations that are bringing molecular evolution and organismal biogeography to understanding and explaining genomic diversity and migration of cancer cells in tumors. In that pursuit, I introduced the “Tumor Island Biogeography” field proposing that tumors are evolutionary islands. This is a unique, fresh conceptual framework that can leverage the extensive spatial and longitudinal variation patterns observed in the genomes, transcriptomes and proteomes of cancer cells. I also co-developed PathFinder, a computational Bayesian method that uses the clone phylogeny, their genetic differentiation, and anatomical locations to infer cancer's migration history in a patient (available at [https://github.com/SayakaMiura/PathFinder](https://github.com/SayakaMiura/PathFinder)).
 
-Recently, I started my postdoctoral fellowship at NYU. An exciting era has started for me as I am being introduced to clonal hematopoiesis, and the power of multi-omic approaches for deciphering malignant and other cells in the BM microenvironment. I am currently using computational tools to investigate epigenomes and trasncriptomes at single cell level in hematological malignancies.
+During my postdoctoral fellowship at NYU, I used computational frameworks for single cell data analysis (RNA-Seq, CITE-Seq, TCR/BCR-Seq, ATAC-Seq) in the context of investigating leukemia transcriptomics and epigenetics.
 
 
 ### Research fields
