@@ -3,14 +3,10 @@
 
 
 ### Let's get in touch!
-Perlmutter Cancer Center
-Department of Pathology
-Applied Bioinformatics Laboratories
-NYU School of Medicine
-550 First Avenue, Smilow Research Building
-13th Floor, New York, NY 10016, USA
 
-Email [Antonia.Chroni@nyulangone.org](Antonia.Chroni@nyulangone.org), [tonichr3@gmail.com](tonichr3@gmail.com)
+
+Email [chronia@chop.edu](chronia@chop.edu), [tonichr3@gmail.com](tonichr3@gmail.com)
+
 
 
 
