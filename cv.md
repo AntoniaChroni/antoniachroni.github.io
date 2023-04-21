@@ -4,10 +4,17 @@ layout: default
 
 ## CV
 
+### Appointments (professional)
+* Bioinformatics Scientist III
+Center for Data Driven Discovery in Biomedicine at Children's Hospital of Philadelphia (CHOP), Philadelphia, PA.
+April 2023 – present.
+
+
+
 ### Appointments (academic)
 * Postdoctoral fellow (Dr. Iannis Aifantis and Dr. Aristotelis Tsirigos)
 Perlmutter Cancer Center, Department of Pathology, Applied Bioinformatics Laboratories, NYU School of Medicine, New York, NY.
-March 2022 – present.
+March 2022 – April 2023.
 * Postdoctoral fellow (Dr. Sudhir Kumar)
 Temple University, iGEM, Philadelphia, PA.
 November 2018 – March 2022.
@@ -47,7 +54,7 @@ November 2018 – March 2022.
 
 
 ### Research experience
-* Aifantis Lab ([https://aifantislab.com/](https://aifantislab.com/)) and Tsirigos Lab ([http://www.tsirigos.com/](http://www.tsirigos.com/)), Department of Pathology, Applied Bioinformatics Laboratories, NYU School of Medicine, New York, NY. March 2022 – present.
+* Aifantis Lab ([https://aifantislab.com/](https://aifantislab.com/)) and Tsirigos Lab ([http://www.tsirigos.com/](http://www.tsirigos.com/)), Department of Pathology, Applied Bioinformatics Laboratories, NYU School of Medicine, New York, NY. March 2022 – April 2023.
   * Computational approaches to analyze leukemia transcriptomes and epigenomes at the single cell level.
 * Kumar Lab ([https://www.kumarlab.net/](https://www.kumarlab.net/)), Temple University, iGEM, Philadelphia, PA. November 2018 – March 2022.
   * Data analysis of large cohorts of simulated and clinical data of patients with metastatic cancer
