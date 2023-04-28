@@ -6,8 +6,7 @@
 ### A little about myself
 
 
-I am a curious person by nature, always seeking to answer questions. During my undergraduate studies I crashed on my first course in evolution, and it was love at first sight! Ever since a fascinating journey on science has started for me, and driven me from Greece to Italy, France, Serbia, and lately, the US. 
+My natural curiosity and passion about science have led me into cancer research. During my undergraduate studies I crashed on my first course in evolution, and it was love at first sight! Ever since a fascinating journey on science has started for me, and driven me from Greece to Italy, France, Serbia, and lately, the US. 
 
 
-I have extensive experience on research projects about genomic heterogeneity and migration of organisms and cancer cells. I have introduced new conceptual (Tumor Island Biogeography theory) and computational (PathFinder for inferring metastatic migrations of tumor clones) approaches advancing the cancer field. I am currently investigating the underlying mechanisms that drive evolution and shape the microenvironment of cancer cells by analyzing sc-RNA/CITE-seq and TCR-seq data in the context of investigating leukemia transcriptomics and epigenetics.
-
+I have extensive experience in projects about tumor evolution and microenvironment in the context of disease progression. I have developed conceptual frameworks (Tumor Island Biogeography theory), a computational approach (PathFinder), and computational frameworks for data analysis of WGS/WES, sc-RNA-Seq, sc-TCR/BCR-Seq, and sc-ATAC-Seq data.
