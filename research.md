@@ -24,7 +24,7 @@ During my postdoctoral fellowship at NYU, I used computational frameworks for si
 
 
 ### Publications
-* 	Chroni, A. 2024. Tumor Island Biogeography: Theory and Clinical Applications. Cancer through the Lens of Evolution and Ecology. Taylor & Francis Group, LLC
+* 	Chroni, A. 2024. Tumor Island Biogeography: Theory and Clinical Applications. Cancer through the Lens of Evolution and Ecology. Taylor & Francis Group, LLC.
 [eBook ISBN: 9781003307921](https://www.taylorfrancis.com/chapters/edit/10.1201/9781003307921-10/tumor-island-biogeography-antonia-chroni)
 * Chroni, A. (^), Miura, S. (^), Hamilton, L., Vu, T., Gaffney, S., Aly, V., Karim, S., Sanderford, M., Townsend, J., Kumar, S. (2022) Clone phylogenetics reveals metastatic tumor migrations, maps, and models. Cancers, 14(17), 4326. (^ equal contribution) [https://doi.org/10.3390/cancers14174326](https://doi.org/10.3390/cancers14174326)
 * Chroni, A.(#), and Kumar, S.(#) (2021) Tumors are evolutionary island-like ecosystems. Genome Biology and Evolution, evab276. (# corresponding author)  [https://doi.org/10.1093/gbe/evab276](https://doi.org/10.1093/gbe/evab276)
