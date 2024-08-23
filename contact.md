@@ -5,7 +5,7 @@
 ### Let's get in touch!
 
 
-Email [chronia@chop.edu](chronia@chop.edu), [tonichr3@gmail.com](tonichr3@gmail.com)
+Email [a.chroni@stjude.org](a.chroni@stjude.org), [tonichr3@gmail.com](tonichr3@gmail.com)
 
 
 
