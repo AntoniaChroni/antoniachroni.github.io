@@ -5,9 +5,12 @@ layout: default
 ## CV
 
 ### Appointments (professional)
+* Senior Bioinformatics Research Scientist
+Department of Developmental Neurobiology, St. Jude Children’s Research Hospital, Memphis, TN.
+April 2024 – current.
 * Bioinformatics Scientist III
 Center for Data Driven Discovery in Biomedicine at Children's Hospital of Philadelphia (CHOP), Philadelphia, PA.
-April 2023 – present.
+April 2023 – March 2024.
 
 
 
